@@ -1,0 +1,130 @@
+<templateSet group="user">
+  <template name="inf" value="android.view.LayoutInflater inflater = android.view.LayoutInflater.from($END$);" description="inflater" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="Rlayout" value="com.gdmm.znj.R.layout.layout_" description="layout" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="bv" value="@butterknife.BindView(R.id.$Id$)&#10;$View$;" description="bindview" toReformat="true" toShortenFQNames="true">
+    <variable name="Id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="View" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="on" value="@butterknife.OnClick(R.id.$Id$)&#10;void $name$() {&#10;    $body$&#10;}" description="OnClick" toReformat="false" toShortenFQNames="true">
+    <variable name="Id" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="back" value="@butterknife.OnClick(R.id.action_bar_back)&#10;    void onBackClicked() {&#10;        finish();&#10;    }" description="bind back method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="inflater" value="android.view.LayoutInflater inflater = android.view.LayoutInflater.from($context$);" description="layout inflater" toReformat="true" toShortenFQNames="true">
+    <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ll" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;LinearLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&#10;    android:orientation=&quot;vertical&quot;&gt;&#10;    &#10;    $1$&#10;&lt;/LinearLayout&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="rl" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;RelativeLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&gt;&#10;&#10;    $1$&#10;&lt;/RelativeLayout&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="tool" value="@butterknife.BindView(R.id.toolbar)&#10;    com.gdmm.znj.common.ToolbarActionbar mToolbar;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="title" value="mToolbar.setTitle($title$);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="action" value="    &lt;include layout=&quot;@layout/toolbar_actionbar&quot; /&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="dp_" value="@dimen/dp_" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="str" value="@string/" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="px_" value="@dimen/px_" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="click" value="@OnClick(R.id.$id$)&#10;    void $method$() {&#10;        $content$&#10;    }" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="fl" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;FrameLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;match_parent&quot;&gt;&#10;    &#10;    $1$&#10;&lt;/FrameLayout&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="bundle" value="android.os.Bundle bundle = new android.os.Bundle();" description="bundle" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="MARKDOWN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="sdo" value="com.gdmm.znj.common.SimpleDisposableObserver simpleDisposableObserver =&#10;                $GetService$&#10;                        .map(com.gdmm.znj.util.RxUtil.&lt;$Bean$&gt;transformerJson())&#10;                        .compose(com.gdmm.znj.util.RxUtil.&lt;$Bean$&gt;transformerRetryWhen())&#10;                        .compose(com.gdmm.znj.util.RxUtil.&lt;$Bean$&gt;applyLoadingIndicator($View$))&#10;                        .subscribeWith(new com.gdmm.znj.common.SimpleDisposableObserver&lt;$Bean$&gt;() {&#10;                            @java.lang.Override&#10;                            public void onNext($Bean$ data) {&#10;                                super.onNext(data);&#10;                            }&#10;&#10;                            @java.lang.Override&#10;                            public void onError(java.lang.Throwable e) {&#10;                                super.onError(e);&#10;                            }&#10;&#10;                            @java.lang.Override&#10;                            public void onComplete() {&#10;                                super.onComplete();&#10;                            }&#10;                        });&#10;        addSubscribe(simpleDisposableObserver);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="GetService" expression="groovyScript(&quot;_1.tokenize(' ')[1]&quot;, clipboard())" defaultValue="" alwaysStopAt="true" />
+    <variable name="Bean" expression="groovyScript(&quot;_1.tokenize(' ')[0]&quot;, clipboard())" defaultValue="" alwaysStopAt="true" />
+    <variable name="View" expression="groovyScript(&quot;_1.tokenize(' ')[2]&quot;, clipboard())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="emp" value="android.text.TextUtils.isEmpty($str$)" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

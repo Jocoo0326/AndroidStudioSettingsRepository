@@ -1,0 +1,1123 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="A" line="40" column="11" filename="D:/AndroidStudioProjects/hlixin_android/好利信/src/com/haolixin/activity/ShowPhotoActivity.java" protocol="file" />
+      <mark key="V" line="63" column="49" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/commment/adapter/CommentListAdapter.java" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/GenericDraweeHierarchy.java" timestamp="1516863951167">
+        <mark key="'" line="189" column="32" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/RxUtil.java" timestamp="1514260697273">
+        <mark key="'" line="167" column="49" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/model/MedalType.java" timestamp="1517210489474">
+        <mark key="[" line="46" column="89" />
+        <mark key="]" line="46" column="92" />
+        <mark key="." line="46" column="92" />
+        <mark key="^" line="46" column="92" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/GenericDraweeView.java" timestamp="1516863607261">
+        <mark key="'" line="26" column="47" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/ColorDrawable.java" timestamp="1516774331753">
+        <mark key="'" line="376" column="0" />
+      </file>
+      <file name="D:/gradle/bin/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.3.0/954e6637505f6cf9c492df7aecc3bb75233c4953/soloader-0.3.0-sources.jar!/com/facebook/soloader/SoLoader.java" timestamp="1517209115075">
+        <mark key="'" line="119" column="10" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ScalingUtils.java" timestamp="1516782055679">
+        <mark key="'" line="183" column="24" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" timestamp="1517220221483">
+        <mark key="'" line="368" column="8" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/references/SharedReference.java" timestamp="1516950369737">
+        <mark key="'" line="202" column="21" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/AutoRotateDrawable.java" timestamp="1514856284201">
+        <mark key="'" line="124" column="6" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ForwardingDrawable.java" timestamp="1516777001176">
+        <mark key="'" line="184" column="11" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/NumberPickView.java" timestamp="1515638355320">
+        <mark key="'" line="243" column="13" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/internal/Closeables.java" timestamp="1516937382119">
+        <mark key="'" line="34" column="13" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/RootDrawable.java" timestamp="1516863492451">
+        <mark key="'" line="37" column="67" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" timestamp="1517292814519">
+        <mark key="'" line="179" column="21" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/presenter/ShoppingCartPresenter.java" timestamp="1515638127283">
+        <mark key="'" line="94" column="73" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" timestamp="1517292824673">
+        <mark key="'" line="280" column="17" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/widget/text/span/BetterImageSpan.java" timestamp="1517190580253">
+        <mark key="'" line="150" column="13" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" timestamp="1517282692380">
+        <mark key="'" line="51" column="43" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/ImageInfo.java" timestamp="1516951189387">
+        <mark key="'" line="29" column="12" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/NewsArticle.java" timestamp="1517210805108">
+        <mark key="'" line="168" column="13" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsChildFragment.java" timestamp="1517211699588">
+        <mark key="'" line="88" column="64" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/ShoppingCartActivity.java" timestamp="1515984949914">
+        <mark key="'" line="46" column="68" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/java/lang/System.java" timestamp="1516933846905">
+        <mark key="'" line="893" column="35" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/adapter/HorizontalRecommendAdapter.java" timestamp="1515133551777">
+        <mark key="'" line="77" column="26" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/adapter/LocalLifeAdapter.java" timestamp="1517220163344">
+        <mark key="'" line="14" column="0" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" timestamp="1516864988195">
+        <mark key="'" line="251" column="10" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/android/os/StrictMode.java" timestamp="1517198000677">
+        <mark key="'" line="375" column="30" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517291872124">
+        <mark key="'" line="144" column="4" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/references/CloseableReference.java" timestamp="1516952892839">
+        <mark key="'" line="124" column="30" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/NewsArticlesResponse.java" timestamp="1517210790641">
+        <mark key="'" line="7" column="13" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" timestamp="1517295661682">
+        <mark key="'" line="108" column="19" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableBitmap.java" timestamp="1516937097679">
+        <mark key="'" line="15" column="53" />
+      </file>
+      <file name="D:/Freedom/fresco/samples/zoomableapp/build.gradle" timestamp="1516865290073">
+        <mark key="'" line="19" column="15" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/adapter/CartAdapter.java" timestamp="1515999062905">
+        <mark key="'" line="776" column="46" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" timestamp="1516784191711">
+        <mark key="'" line="99" column="30" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/FLogDefaultLoggingDelegate.java" timestamp="1517197005151">
+        <mark key="'" line="136" column="12" />
+      </file>
+      <file name="D:/Freedom/fresco/samples/showcase/src/main/java/com/facebook/fresco/samples/showcase/imageformat/color/ColorImageExample.java" timestamp="1516951357397">
+        <mark key="'" line="96" column="22" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ScaleTypeDrawable.java" timestamp="1516783741139">
+        <mark key="'" line="98" column="48" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/PullToRefreshSwipeLayoutInRecyclerView.java" timestamp="1515984965356">
+        <mark key="'" line="19" column="86" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeService.java" timestamp="1517217210317">
+        <mark key="'" line="256" column="33" />
+      </file>
+      <file name="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/MyPagerAdapter.java" timestamp="1517295560310">
+        <mark key="'" line="66" column="19" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" timestamp="1516867546539">
+        <mark key="'" line="76" column="25" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableStaticBitmap.java" timestamp="1516950667861">
+        <mark key="'" line="35" column="20" />
+      </file>
+      <file name="D:/Freedom/fresco/samples/kotlin/src/main/kotlin/com/facebook/samples/kotlin/MainActivity.kt" timestamp="1516865806774">
+        <mark key="'" line="44" column="27" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/build.gradle" timestamp="1516951557438">
+        <mark key="'" line="6" column="51" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/BaseControllerListener.java" timestamp="1517293361876">
+        <mark key="'" line="17" column="62" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/FrescoLoadUtil.java" timestamp="1514366779583">
+        <mark key="'" line="136" column="15" />
+      </file>
+      <file name="D:/Freedom/fresco/samples/kotlin/src/main/kotlin/com/facebook/samples/kotlin/MediaStoreData.kt" timestamp="1516865507601">
+        <mark key="'" line="29" column="15" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/interfaces/SimpleDraweeControllerBuilder.java" timestamp="1515491464574">
+        <mark key="'" line="32" column="13" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/splash/SplashActivity.java" timestamp="1516155172268">
+        <mark key="'" line="56" column="57" />
+      </file>
+      <file name="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" timestamp="1516866181379">
+        <mark key="'" line="77" column="10" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/GenericDraweeHierarchyBuilder.java" timestamp="1516697942365">
+        <mark key="'" line="662" column="23" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/interfaces/DraweeController.java" timestamp="1515491885704">
+        <mark key="'" line="59" column="6" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/ui/MedalDetailsActivity.java" timestamp="1516678696323">
+        <mark key="'" line="64" column="52" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/nanjing/java/com/gdmm/znj/common/html5/Html5Activity.java" timestamp="1516068295553">
+        <mark key="'" line="1121" column="50" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" timestamp="1517295300277">
+        <mark key="'" line="26" column="41" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/photo/choose/UploadPhotoPresenter.java" timestamp="1514267079838">
+        <mark key="'" line="195" column="67" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/DrawableProperties.java" timestamp="1516776172584">
+        <mark key="'" line="63" column="2" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/auction/SlideViewPager.java" timestamp="1514269385229">
+        <mark key="'" line="66" column="26" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imageformat/DefaultImageFormatChecker.java" timestamp="1516952105505">
+        <mark key="'" line="24" column="76" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumPresenter.java" timestamp="1517278229698">
+        <mark key="'" line="50" column="11" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/Constants.java" timestamp="1517193128585">
+        <mark key="'" line="22" column="7" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/cache/MemoryCache.java" timestamp="1516870624431">
+        <mark key="'" line="60" column="4" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" timestamp="1517280767643">
+        <mark key="'" line="70" column="21" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" timestamp="1517295629008">
+        <mark key="'" line="385" column="26" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/LoggingDelegate.java" timestamp="1517191710828">
+        <mark key="'" line="136" column="59" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" timestamp="1517294826202">
+        <mark key="'" line="64" column="67" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" timestamp="1517299001622">
+        <mark key="'" line="359" column="15" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/EditMyPageFragment.java" timestamp="1517283538886">
+        <mark key="[" line="178" column="71" />
+        <mark key="]" line="178" column="90" />
+        <mark key="^" line="178" column="90" />
+        <mark key="." line="178" column="90" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/android/view/View.java" timestamp="1515480474907">
+        <mark key="'" line="22137" column="15" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/java/io/Closeable.java" timestamp="1514451228507">
+        <mark key="'" line="36" column="35" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/components/DraweeEventTracker.java" timestamp="1516931859630">
+        <mark key="'" line="74" column="20" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/presenter/UserInfoPresenter.java" timestamp="1516784770489">
+        <mark key="'" line="133" column="47" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" timestamp="1517282565916">
+        <mark key="'" line="166" column="37" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/TransformAwareDrawable.java" timestamp="1516775522763">
+        <mark key="'" line="21" column="37" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/GenericDraweeHierarchyInflater.java" timestamp="1516695225752">
+        <mark key="'" line="26" column="27" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerFactory.java" timestamp="1517295075628">
+        <mark key="'" line="100" column="63" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/res/values/attrs.xml" timestamp="1514537750809">
+        <mark key="'" line="75" column="37" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" timestamp="1517220226794">
+        <mark key="'" line="36" column="13" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" timestamp="1517219422271">
+        <mark key="'" line="59" column="33" />
+      </file>
+      <file name="D:/Freedom/fresco/samples/zoomable/src/main/java/com/facebook/samples/zoomable/ZoomableDraweeView.java" timestamp="1517294360126">
+        <mark key="'" line="259" column="33" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" timestamp="1517300927876" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517278224369">
+        <mark key="'" line="104" column="35" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/MainActivity.java" timestamp="1516155135291">
+        <mark key="'" line="28" column="28" />
+      </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/FLog.java" timestamp="1517191207348">
+        <mark key="'" line="443" column="45" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/upgrade/UpgradeInfo.java" timestamp="1515551455431">
+        <mark key="'" line="138" column="0" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517298004728" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1516678679582">
+        <mark key="'" line="1164" column="34" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailFragment.java" timestamp="1515376707467">
+        <mark key="'" line="95" column="87" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imageformat/ImageFormatChecker.java" timestamp="1516952506365">
+        <mark key="'" line="31" column="37" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/splash/service/LoadIntentService.java" timestamp="1516266544248">
+        <mark key="'" line="167" column="50" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/ImmutableQualityInfo.java" timestamp="1514451558903">
+        <mark key="'" line="69" column="15" />
+      </file>
+      <file name="D:/gradle/bin/caches/modules-2/files-2.1/io.realm/realm-android-library/4.3.1/7c1a2f7dccec1d2ca551f12b3d172251f8d7441f/realm-android-library-4.3.1-sources.jar!/io/realm/RealmResults.java" timestamp="1515466568070">
+        <mark key="'" line="61" column="37" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/drawable/DrawableFactory.java" timestamp="1516951178245">
+        <mark key="'" line="36" column="37" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517276810532">
+        <mark key="'" line="80" column="34" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/QualityInfo.java" timestamp="1514451124310">
+        <mark key="'" line="35" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517283585901">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/ZNJApplication.java" timestamp="1516155637662">
+        <mark key="'" line="145" column="44" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/FadeDrawable.java" timestamp="1517294099785">
+        <mark key="'" line="31" column="42" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ArrayDrawable.java" timestamp="1516851916446">
+        <mark key="'" line="16" column="13" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517298471407">
+        <mark key="'" line="546" column="21" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/AndroidManifest.xml" timestamp="1517219041165">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableImage.java" timestamp="1516951182048">
+        <mark key="'" line="17" column="61" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/BitmapDrawable.java" timestamp="1516782841919">
+        <mark key="'" line="534" column="25" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/presenter/MedalPresenter.java" timestamp="1516674343049">
+        <mark key="'" line="51" column="38" />
+      </file>
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/DrawableUtils.java" timestamp="1516775493924">
+        <mark key="'" line="75" column="49" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/java/util/logging/Logger.java" timestamp="1516938221225">
+        <mark key="'" line="112" column="45" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/hefei/java/com/gdmm/znj/util/Config.java" timestamp="1516068345688">
+        <mark key="'" line="6" column="17" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/Drawable.java" timestamp="1516782633078">
+        <mark key="'" line="231" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1517297998946">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="47" column="51" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/bianmin/recharge/ui/MobileRechargeActivity.java" />
+      <jump line="28" column="22" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" />
+      <jump line="59" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" />
+      <jump line="14" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/adapter/LocalLifeAdapter.java" />
+      <jump line="53" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="119" column="52" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="130" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="327" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="54" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="134" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="368" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
+      <jump line="36" column="13" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" />
+      <jump line="42" column="16" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="56" column="23" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+      <jump line="80" column="34" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" />
+      <jump line="31" column="47" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" />
+      <jump line="106" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="122" column="20" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="130" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="131" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="177" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="178" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="180" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="202" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="214" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="273" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="282" column="20" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="323" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="104" column="35" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="50" column="11" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumPresenter.java" />
+      <jump line="49" column="24" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
+      <jump line="55" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
+      <jump line="85" column="25" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="57" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="64" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="58" column="4" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="70" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" />
+      <jump line="108" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" />
+      <jump line="56" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="25" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="35" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="165" column="40" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
+      <jump line="166" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
+      <jump line="51" column="43" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
+      <jump line="100" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="27" column="23" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
+      <jump line="48" column="29" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" />
+      <jump line="175" column="29" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="420" column="6" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="426" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="446" column="29" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="345" column="21" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="45" column="16" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="0" column="0" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
+      <jump line="263" column="18" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="40" column="16" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="89" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="98" column="12" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="181" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="255" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="278" column="6" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="226" column="26" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="96" column="32" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="129" column="10" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="155" column="10" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="144" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="29" column="7" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/interfaces/DraweeController.java" />
+      <jump line="184" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="274" column="18" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="195" column="27" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="121" column="22" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
+      <jump line="201" column="20" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="139" column="11" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
+      <jump line="165" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
+      <jump line="179" column="21" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
+      <jump line="92" column="26" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="280" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="17" column="62" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/BaseControllerListener.java" />
+      <jump line="515" column="19" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="31" column="42" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/FadeDrawable.java" />
+      <jump line="57" column="35" filename="D:/Freedom/fresco/samples/zoomable/src/main/java/com/facebook/samples/zoomable/ZoomableDraweeView.java" />
+      <jump line="252" column="36" filename="D:/Freedom/fresco/samples/zoomable/src/main/java/com/facebook/samples/zoomable/ZoomableDraweeView.java" />
+      <jump line="259" column="33" filename="D:/Freedom/fresco/samples/zoomable/src/main/java/com/facebook/samples/zoomable/ZoomableDraweeView.java" />
+      <jump line="359" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="209" column="23" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" />
+      <jump line="64" column="67" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" />
+      <jump line="100" column="63" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerFactory.java" />
+      <jump line="43" column="48" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="55" column="4" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="108" column="19" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="334" column="40" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="374" column="35" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="385" column="26" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="26" column="41" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" />
+      <jump line="64" column="47" filename="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/MyPagerAdapter.java" />
+      <jump line="91" column="48" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" />
+      <jump line="66" column="19" filename="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/MyPagerAdapter.java" />
+      <jump line="106" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="198" column="10" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+      <jump line="546" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>话费充值下单校验接口变更</text>
+      </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="82" mods="130" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="j" type="4">
+        <text>jjjbbbllllllljjjjjjjjkj</text>
+      </register>
+      <register name="-" type="4">
+        <text>话费充值下单校验接口变更</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</text>
+      </register>
+      <register name="o" type="4">
+        <text>android:background=&quot;@color/color_eeeeee_white&quot;
+                app:failureImage=&quot;@drawable/default_pic&quot;
+                app:failureImageScaleType=&quot;centerInside&quot;
+                app:placeholderImage=&quot;@drawable/default_pic&quot;
+                app:placeholderImageScaleType=&quot;centerInside&quot;</text>
+      </register>
+      <register name="0" type="4">
+        <text>values[mCurrentSelectedIndex]</text>
+      </register>
+      <register name="p" type="4">
+        <text>android:background=&quot;@color/color_eeeeee_white&quot;
+        fresco:failureImage=&quot;@drawable/default_pic&quot;
+        fresco:failureImageScaleType=&quot;centerInside&quot;
+        fresco:placeholderImage=&quot;@drawable/default_pic&quot;
+        fresco:placeholderImageScaleType=&quot;centerInside&quot;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nW10gdmFsdWVzID0geyIxMDAiLCAiMjAwIiwgIjMwMCIsICI1MDAifTsK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+          <key char="61" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gU3RyaW5nLnZhbHVlT2YoSW50ZWdlci5NQVhfVkFMVUUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxhc3ROZXdzQXJ0aWNsZS5nZXRBcnRpY2xlVHlwZSgpID09IDApIHsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="t" type="4">
+        <keys>
+          <key char="74" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IGxhc3ROZXdzQXJ0aWNsZS5nZXRBcnRpY2xlSWQoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vu/HIodDCzsXB0LHttcSxvrXY0MLOxbXE1+6689K7zPXQws7FtcRpZKOsyOe5+8O709DIodbQufrL0cv3tcTX7rrz0rvM9dDCzsVpZChpZEZvckNoaW5hU2VhcmNoKS0tPmludC5tYXhWYWx1ZQo=</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="63" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQEZpZWxkKCJwYWdlU2l6ZSIpIFN0cmluZyBwYWdlU2l6ZQo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="80" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL3dlYnAvZ2FsbGVyeS82LnNtLmpwZyIsCg==</text>
+      </register>
+      <register name="x" type="2">
+        <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249dHJ1ZQpvcmcuZ3JhZGxlLmp2bWFyZ3M9LVhteDE1MzZtCm9yZy5ncmFkbGUucGFyYWxsZWw9dHJ1ZQpvcmcuZ3JhZGxlLmNvbmZpZ3VyZW9uZGVtYW5kPXRydWUKYW5kcm9pZC5lbmFibGVCdWlsZENhY2hlID0gdHJ1ZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICJodHRwczovL3d3dy5nc3RhdGljLmNvbS93ZWJwL2dhbGxlcnkvMi5zbS5qcGciLAogICAgICAgICAgImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL3dlYnAvZ2FsbGVyeS8zLnNtLmpwZyIsCiAgICAgICAgICAiaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vd2VicC9nYWxsZXJ5LzQuc20uanBnIiwKICAgICAgICAgICJodHRwczovL3d3dy5nc3RhdGljLmNvbS93ZWJwL2dhbGxlcnkvNS5zbS5qcGciLAo=</text>
+      </register>
+      <register name="y" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="85" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name=":" type="4">
+        <text>180</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</last-pattern>
+      <last-replace />
+      <last-substitute>;</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjaGVja0JlZm9yZVNob3BwaW5nXD4=</entry>
+        <entry>onActivity</entry>
+        <entry encoding="base64">XDxUWVBFX0JBTk5FUl9BRFw+</entry>
+        <entry encoding="base64">XDxUWVBFX0NBVEVHT1JZXD4=</entry>
+        <entry encoding="base64">XDxzRHJhd2VlQ29udHJvbGxlckJ1aWxkZXJTdXBwbGllclw+</entry>
+        <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
+        <entry>setLatest</entry>
+        <entry>getClass</entry>
+        <entry encoding="base64">XDxtUG9zdEZyYWdtZW50XD4=</entry>
+        <entry encoding="base64">XDxzZXRQb3N0RnJhZ21lbnRcPg==</entry>
+        <entry encoding="base64">XDxmcmFnbWVudHNcPg==</entry>
+        <entry encoding="base64">XDxzdWJtaXRSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxvbkF0dGFjaFw+</entry>
+        <entry encoding="base64">XDxzZXRDb250cm9sbGVyXD4=</entry>
+        <entry encoding="base64">XDxhdHRhY2hDb250cm9sbGVyXD4=</entry>
+        <entry>onAttach</entry>
+        <entry encoding="base64">XDxtQ29udHJvbGxlckxpc3RlbmVyXD4=</entry>
+        <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
+        <entry encoding="base64">XDxkYXRhU291cmNlU3VwcGxpZXJcPg==</entry>
+        <entry encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3RpcHNWaWV3TnVtL251bVZpZXcvZw==</entry>
+        <entry>%s/&quot;\(\d\+\)\(dp\|sp\|px\)&quot;/&quot;@dimen\/\2_\1&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zL1woXGRcK1wpc3AvQGRpbWVuL2RwX1wxL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyhcZFwrc3ApL0BkaW1lblwvZHBfXDEvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1woXGRcK3NwXCkvQGRpbWVuXC9kcF9cMS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1woXGRcK1wpc3AvQGRpbWVuXC9kcF9cMS9n</entry>
+        <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
+        <entry>126</entry>
+        <entry>425</entry>
+        <entry>252</entry>
+        <entry>458</entry>
+        <entry>67</entry>
+        <entry>102</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
+        <entry>reg</entry>
+        <entry encoding="base64">JzwsJz4nPCwnPnMvOy8vZw==</entry>
+        <entry>tabnext</entry>
+        <entry>86</entry>
+        <entry>180</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>pressed F8</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F5</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
