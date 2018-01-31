@@ -81,14 +81,17 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/adapter/LocalLifeAdapter.java" timestamp="1517220163344">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" timestamp="1516864988195">
-        <mark key="'" line="251" column="10" />
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" timestamp="1517368897328">
+        <mark key="'" line="90" column="27" />
       </file>
       <file name="D:/Android/sdk/sources/android-26/android/os/StrictMode.java" timestamp="1517198000677">
         <mark key="'" line="375" column="30" />
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517291872124">
         <mark key="'" line="144" column="4" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" timestamp="1517369035212">
+        <mark key="'" line="311" column="26" />
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/references/CloseableReference.java" timestamp="1516952892839">
         <mark key="'" line="124" column="30" />
@@ -269,8 +272,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/upgrade/UpgradeInfo.java" timestamp="1515551455431">
         <mark key="'" line="138" column="0" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517368308657">
-        <mark key="'" line="246" column="11" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517369373336">
+        <mark key="'" line="287" column="67" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1516678679582">
         <mark key="'" line="1164" column="34" />
@@ -344,28 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="177" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="178" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="180" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="202" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="214" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="273" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="282" column="20" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="323" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="104" column="35" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="50" column="11" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumPresenter.java" />
-      <jump line="49" column="24" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
-      <jump line="55" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
-      <jump line="85" column="25" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="57" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="64" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="58" column="4" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="70" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" />
-      <jump line="108" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" />
-      <jump line="56" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="25" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="35" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
       <jump line="165" column="40" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
       <jump line="166" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
       <jump line="51" column="43" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
@@ -444,6 +425,28 @@
       <jump line="199" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="215" column="23" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="246" column="11" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="253" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="135" column="22" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="49" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="104" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="295" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="90" column="27" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="185" column="23" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="297" column="24" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="298" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="31" column="47" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/media/MediaUtils.java" />
+      <jump line="303" column="24" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="113" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="305" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="148" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="307" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="159" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="309" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="177" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="311" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
+      <jump line="170" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
+      <jump line="255" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="287" column="67" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -563,7 +566,7 @@
         <text>话费充值下单校验接口变更</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaERlY29kZWRJbWFnZVw+</text>
+        <text encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -979,9 +982,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaERlY29kZWRJbWFnZVw+</last-search>
+      <last-search encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaERlY29kZWRJbWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -989,7 +992,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzRHJhd2VlQ29udHJvbGxlckJ1aWxkZXJTdXBwbGllclw+</entry>
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry>setLatest</entry>
         <entry>getClass</entry>
@@ -1009,6 +1011,7 @@
         <entry encoding="base64">XDxtSW1hZ2VQaXBlbGluZVw+</entry>
         <entry encoding="base64">XDxzdWJtaXRGZXRjaFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxmZXRjaERlY29kZWRJbWFnZVw+</entry>
+        <entry encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
