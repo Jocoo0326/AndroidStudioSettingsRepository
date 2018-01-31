@@ -133,8 +133,8 @@
         <mark key="^" line="32" column="97" />
         <mark key="." line="32" column="97" />
       </file>
-      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" timestamp="1516867546539">
-        <mark key="'" line="76" column="25" />
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" timestamp="1517366705830">
+        <mark key="'" line="25" column="26" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableStaticBitmap.java" timestamp="1516950667861">
         <mark key="'" line="35" column="20" />
@@ -306,7 +306,7 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ArrayDrawable.java" timestamp="1516851916446">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517298471407">
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517367136403">
         <mark key="'" line="546" column="21" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/AndroidManifest.xml" timestamp="1517219041165">
@@ -341,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
-      <jump line="368" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
-      <jump line="36" column="13" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" />
       <jump line="42" column="16" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
       <jump line="56" column="23" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="80" column="34" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" />
@@ -441,6 +438,9 @@
       <jump line="94" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
       <jump line="95" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
       <jump line="96" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
+      <jump line="52" column="4" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" />
+      <jump line="64" column="8" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" />
+      <jump line="25" column="26" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -560,7 +560,7 @@
         <text>话费充值下单校验接口变更</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzSW5zdGFuY2VcPg==</text>
+        <text encoding="base64">XDxtSW1hZ2VQaXBlbGluZVw+</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -976,9 +976,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzSW5zdGFuY2VcPg==</last-search>
+      <last-search encoding="base64">XDxtSW1hZ2VQaXBlbGluZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzSW5zdGFuY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtSW1hZ2VQaXBlbGluZVw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onActivity</entry>
         <entry encoding="base64">XDxUWVBFX0JBTk5FUl9BRFw+</entry>
         <entry encoding="base64">XDxUWVBFX0NBVEVHT1JZXD4=</entry>
         <entry encoding="base64">XDxzRHJhd2VlQ29udHJvbGxlckJ1aWxkZXJTdXBwbGllclw+</entry>
@@ -1006,6 +1005,7 @@
         <entry encoding="base64">XDxkYXRhU291cmNlU3VwcGxpZXJcPg==</entry>
         <entry encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxzSW5zdGFuY2VcPg==</entry>
+        <entry encoding="base64">XDxtSW1hZ2VQaXBlbGluZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
