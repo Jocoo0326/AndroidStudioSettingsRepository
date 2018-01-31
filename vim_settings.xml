@@ -15,6 +15,9 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/GenericDraweeView.java" timestamp="1516863607261">
         <mark key="'" line="26" column="47" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1517370744533">
+        <mark key="'" line="312" column="30" />
+      </file>
       <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/ColorDrawable.java" timestamp="1516774331753">
         <mark key="'" line="376" column="0" />
       </file>
@@ -272,8 +275,11 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/upgrade/UpgradeInfo.java" timestamp="1515551455431">
         <mark key="'" line="138" column="0" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517369373336">
-        <mark key="'" line="287" column="67" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517370736231">
+        <mark key="'" line="327" column="31" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517370966316">
+        <mark key="'" line="31" column="51" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1516678679582">
         <mark key="'" line="1164" column="34" />
@@ -347,13 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="40" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
-      <jump line="166" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
-      <jump line="51" column="43" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
-      <jump line="100" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="27" column="23" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageFMFragment.java" />
-      <jump line="48" column="29" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" />
-      <jump line="175" column="29" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="420" column="6" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="426" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="446" column="29" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
@@ -447,6 +446,13 @@
       <jump line="170" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
       <jump line="255" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="287" column="67" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="331" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="333" column="14" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="328" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="327" column="31" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="312" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="29" column="9" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="31" column="51" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -566,7 +572,7 @@
         <text>话费充值下单校验接口变更</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</text>
+        <text encoding="base64">XDxtQ29tbW9uTmV0d29ya0ZldGNoVG9FbmNvZGVkTWVtb3J5U2VxdWVuY2VcPg==</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -982,9 +988,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</last-search>
+      <last-search encoding="base64">XDxtQ29tbW9uTmV0d29ya0ZldGNoVG9FbmNvZGVkTWVtb3J5U2VxdWVuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtQ29tbW9uTmV0d29ya0ZldGNoVG9FbmNvZGVkTWVtb3J5U2VxdWVuY2VcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -992,7 +998,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry>setLatest</entry>
         <entry>getClass</entry>
         <entry encoding="base64">XDxtUG9zdEZyYWdtZW50XD4=</entry>
@@ -1012,6 +1017,7 @@
         <entry encoding="base64">XDxzdWJtaXRGZXRjaFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxmZXRjaERlY29kZWRJbWFnZVw+</entry>
         <entry encoding="base64">XDxtU291cmNlVXJpVHlwZVw+</entry>
+        <entry encoding="base64">XDxtQ29tbW9uTmV0d29ya0ZldGNoVG9FbmNvZGVkTWVtb3J5U2VxdWVuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
