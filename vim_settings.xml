@@ -179,7 +179,9 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" timestamp="1517295300277">
         <mark key="'" line="26" column="41" />
       </file>
-      <file name="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/ZoomableApplication.java" timestamp="1517364937742" />
+      <file name="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/ZoomableApplication.java" timestamp="1517365659118">
+        <mark key="'" line="35" column="22" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/photo/choose/UploadPhotoPresenter.java" timestamp="1514267079838">
         <mark key="'" line="195" column="67" />
       </file>
@@ -289,8 +291,8 @@
         <mark key="'" line="36" column="37" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/commment/adapter/CommentListAdapter.java" timestamp="1517361189633" />
-      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517276810532">
-        <mark key="'" line="80" column="34" />
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517365672932">
+        <mark key="'" line="71" column="33" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/QualityInfo.java" timestamp="1514451124310">
         <mark key="'" line="35" column="17" />
@@ -322,6 +324,9 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/DrawableUtils.java" timestamp="1516775493924">
         <mark key="'" line="75" column="49" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" timestamp="1517365882703">
+        <mark key="'" line="96" column="6" />
+      </file>
       <file name="D:/Android/sdk/sources/android-26/java/util/logging/Logger.java" timestamp="1516938221225">
         <mark key="'" line="112" column="45" />
       </file>
@@ -336,14 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="22" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" />
-      <jump line="59" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" />
-      <jump line="14" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/adapter/LocalLifeAdapter.java" />
-      <jump line="53" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
-      <jump line="119" column="52" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
-      <jump line="130" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
-      <jump line="327" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
-      <jump line="54" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
       <jump line="134" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
       <jump line="368" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeModel.java" />
       <jump line="36" column="13" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" />
@@ -436,6 +433,14 @@
       <jump line="546" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="66" column="19" filename="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/MyPagerAdapter.java" />
       <jump line="115" column="4" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/listener/RequestLoggingListener.java" />
+      <jump line="35" column="22" filename="D:/Freedom/fresco/samples/zoomableapp/src/main/java/com/facebook/samples/zoomableapp/ZoomableApplication.java" />
+      <jump line="45" column="10" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" />
+      <jump line="71" column="33" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" />
+      <jump line="86" column="4" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
+      <jump line="93" column="27" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
+      <jump line="94" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
+      <jump line="95" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
+      <jump line="96" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -555,7 +560,7 @@
         <text>话费充值下单校验接口变更</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</text>
+        <text encoding="base64">XDxzSW5zdGFuY2VcPg==</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -971,9 +976,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</last-search>
+      <last-search encoding="base64">XDxzSW5zdGFuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzSW5zdGFuY2VcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -981,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja0JlZm9yZVNob3BwaW5nXD4=</entry>
         <entry>onActivity</entry>
         <entry encoding="base64">XDxUWVBFX0JBTk5FUl9BRFw+</entry>
         <entry encoding="base64">XDxUWVBFX0NBVEVHT1JZXD4=</entry>
@@ -1001,6 +1005,7 @@
         <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
         <entry encoding="base64">XDxkYXRhU291cmNlU3VwcGxpZXJcPg==</entry>
         <entry encoding="base64">XDxtUGlwZWxpbmVEcmF3ZWVDb250cm9sbGVyRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDxzSW5zdGFuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
