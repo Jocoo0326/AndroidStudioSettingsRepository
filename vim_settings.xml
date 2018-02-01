@@ -263,6 +263,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" timestamp="1517220226794">
         <mark key="'" line="36" column="13" />
       </file>
+      <file name="D:/gradle/bin/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/a2926c057ca3b662b9db194c869bdbe7d3bb8aef/jsr305-3.0.1-sources.jar!/javax/annotation/concurrent/ThreadSafe.java" timestamp="1517473028160" />
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" timestamp="1517219422271">
         <mark key="'" line="59" column="33" />
       </file>
@@ -324,8 +325,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ArrayDrawable.java" timestamp="1516851916446">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517368270876">
-        <mark key="'" line="199" column="39" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517472942775">
+        <mark key="'" line="47" column="7" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/AndroidManifest.xml" timestamp="1517219041165">
         <mark key="'" line="0" column="0" />
@@ -359,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="6" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="426" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="446" column="29" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="345" column="21" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
@@ -427,7 +427,6 @@
       <jump line="541" column="48" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="193" column="56" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="114" column="15" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="199" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="215" column="23" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="246" column="11" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="253" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
@@ -459,6 +458,8 @@
       <jump line="312" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
       <jump line="29" column="9" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
       <jump line="31" column="51" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="199" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+      <jump line="47" column="7" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
