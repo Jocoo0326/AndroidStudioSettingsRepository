@@ -233,6 +233,9 @@
       <file name="D:/Android/sdk/sources/android-26/android/view/View.java" timestamp="1515480474907">
         <mark key="'" line="22137" column="15" />
       </file>
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/SimpleDataSource.java" timestamp="1517476154671">
+        <mark key="'" line="45" column="23" />
+      </file>
       <file name="D:/Android/sdk/sources/android-26/java/io/Closeable.java" timestamp="1514451228507">
         <mark key="'" line="36" column="35" />
       </file>
@@ -270,8 +273,8 @@
       <file name="D:/Freedom/fresco/samples/zoomable/src/main/java/com/facebook/samples/zoomable/ZoomableDraweeView.java" timestamp="1517294360126">
         <mark key="'" line="259" column="33" />
       </file>
-      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" timestamp="1517474226444">
-        <mark key="'" line="28" column="57" />
+      <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" timestamp="1517475776039">
+        <mark key="'" line="298" column="0" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517278224369">
         <mark key="'" line="104" column="35" />
@@ -361,13 +364,8 @@
       <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/Drawable.java" timestamp="1516782633078">
         <mark key="'" line="231" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1517297998946">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
-      <jump line="263" column="18" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
       <jump line="40" column="16" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
       <jump line="89" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
       <jump line="98" column="12" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
@@ -466,6 +464,8 @@
       <jump line="317" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
       <jump line="27" column="69" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" />
       <jump line="28" column="57" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
+      <jump line="298" column="0" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
+      <jump line="45" column="23" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/SimpleDataSource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
