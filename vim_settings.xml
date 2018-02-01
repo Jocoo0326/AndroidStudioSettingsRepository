@@ -75,8 +75,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsChildFragment.java" timestamp="1517211699588">
         <mark key="'" line="88" column="64" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" timestamp="1517484252476">
-        <mark key="'" line="41" column="52" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" timestamp="1517497764279">
+        <mark key="'" line="46" column="25" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/ShoppingCartActivity.java" timestamp="1515984949914">
         <mark key="'" line="46" column="68" />
@@ -113,6 +113,9 @@
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableBitmap.java" timestamp="1516937097679">
         <mark key="'" line="15" column="53" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/EncodedImage.java" timestamp="1517498521907">
+        <mark key="'" line="277" column="54" />
       </file>
       <file name="D:/Freedom/fresco/samples/zoomableapp/build.gradle" timestamp="1516865290073">
         <mark key="'" line="19" column="15" />
@@ -162,6 +165,9 @@
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/decoder/DefaultImageDecoder.java" timestamp="1517498367062">
+        <mark key="'" line="86" column="4" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/build.gradle" timestamp="1516951557438">
         <mark key="'" line="6" column="51" />
@@ -234,6 +240,9 @@
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/LoggingDelegate.java" timestamp="1517191710828">
         <mark key="'" line="136" column="59" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DecodeProducer.java" timestamp="1517498028773">
+        <mark key="'" line="225" column="66" />
       </file>
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" timestamp="1517294826202">
         <mark key="'" line="64" column="67" />
@@ -311,6 +320,7 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517370736231">
         <mark key="'" line="327" column="31" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imageutils/JfifUtil.java" timestamp="1517498560403" />
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517496517969">
         <mark key="'" line="93" column="48" />
       </file>
@@ -401,17 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
-      <jump line="95" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
-      <jump line="96" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipelineFactory.java" />
-      <jump line="52" column="4" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" />
-      <jump line="64" column="8" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" />
-      <jump line="25" column="26" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" />
-      <jump line="543" column="11" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="541" column="48" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="193" column="56" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="114" column="15" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="215" column="23" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="246" column="11" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="253" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="135" column="22" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
@@ -501,6 +500,17 @@
       <jump line="31" column="50" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" />
       <jump line="93" column="48" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
       <jump line="38" column="27" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="184" column="34" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" />
+      <jump line="46" column="25" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" />
+      <jump line="218" column="13" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DecodeProducer.java" />
+      <jump line="213" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DecodeProducer.java" />
+      <jump line="225" column="66" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DecodeProducer.java" />
+      <jump line="253" column="11" filename="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/EncodedImage.java" />
+      <jump line="394" column="40" filename="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/EncodedImage.java" />
+      <jump line="174" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/decoder/DefaultImageDecoder.java" />
+      <jump line="45" column="32" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/decoder/DefaultImageDecoder.java" />
+      <jump line="86" column="4" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/decoder/DefaultImageDecoder.java" />
+      <jump line="277" column="54" filename="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/EncodedImage.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -620,7 +630,7 @@
         <text>话费充值下单校验接口变更</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1036,9 +1046,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1046,9 +1056,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcmFnbWVudHNcPg==</entry>
-        <entry encoding="base64">XDxzdWJtaXRSZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxvbkF0dGFjaFw+</entry>
         <entry encoding="base64">XDxzZXRDb250cm9sbGVyXD4=</entry>
         <entry encoding="base64">XDxhdHRhY2hDb250cm9sbGVyXD4=</entry>
         <entry>onAttach</entry>
@@ -1066,6 +1073,9 @@
         <entry encoding="base64">XDxkb3dubG9hZEZyb21cPg==</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
         <entry>fetch</entry>
+        <entry encoding="base64">XDxtRG9Kb2JSdW5uYWJsZVw+</entry>
+        <entry encoding="base64">XDxtU2FtcGxlU2l6ZVw+</entry>
+        <entry encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
