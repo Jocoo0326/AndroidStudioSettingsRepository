@@ -295,8 +295,8 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueue.java" timestamp="1517489282016">
         <mark key="'" line="30" column="13" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java" timestamp="1517491558552">
-        <mark key="'" line="51" column="20" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java" timestamp="1517494070509">
+        <mark key="'" line="75" column="25" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/MainActivity.java" timestamp="1516155135291">
         <mark key="'" line="28" column="28" />
@@ -327,6 +327,9 @@
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/splash/service/LoadIntentService.java" timestamp="1516266544248">
         <mark key="'" line="167" column="50" />
+      </file>
+      <file name="D:/Android/sdk/sources/android-26/java/util/concurrent/ExecutorService.java" timestamp="1517493112134">
+        <mark key="'" line="278" column="0" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/ImmutableQualityInfo.java" timestamp="1514451558903">
         <mark key="'" line="69" column="15" />
@@ -396,11 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="18" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
-      <jump line="195" column="27" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
-      <jump line="121" column="22" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
-      <jump line="201" column="20" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
-      <jump line="139" column="11" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
       <jump line="165" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
       <jump line="179" column="21" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
       <jump line="92" column="26" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
@@ -496,6 +494,11 @@
       <jump line="51" column="20" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java" />
       <jump line="65" column="11" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetcher.java" />
       <jump line="21" column="25" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/BaseNetworkFetcher.java" />
+      <jump line="45" column="43" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java" />
+      <jump line="141" column="46" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/ExecutorService.java" />
+      <jump line="278" column="0" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/ExecutorService.java" />
+      <jump line="60" column="17" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java" />
+      <jump line="75" column="25" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/HttpUrlConnectionNetworkFetcher.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
