@@ -72,6 +72,9 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsChildFragment.java" timestamp="1517211699588">
         <mark key="'" line="88" column="64" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" timestamp="1517484252476">
+        <mark key="'" line="41" column="52" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/ShoppingCartActivity.java" timestamp="1515984949914">
         <mark key="'" line="46" column="68" />
       </file>
@@ -154,7 +157,6 @@
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="D:/AndroidStudioProjects/hlixin_android/好利信/src/com/haolixin/activity/ShowPhotoActivity.java" timestamp="1517361189633" />
       <file name="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/build.gradle" timestamp="1516951557438">
         <mark key="'" line="6" column="51" />
       </file>
@@ -291,7 +293,7 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517370736231">
         <mark key="'" line="327" column="31" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517370966316">
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517484538236">
         <mark key="'" line="31" column="51" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1516678679582">
@@ -366,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
       <jump line="98" column="12" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
       <jump line="181" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
       <jump line="255" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
@@ -466,6 +467,7 @@
       <jump line="298" column="0" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
       <jump line="45" column="23" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/SimpleDataSource.java" />
       <jump line="209" column="32" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
+      <jump line="41" column="52" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
