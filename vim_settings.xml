@@ -93,8 +93,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517291872124">
         <mark key="'" line="144" column="4" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" timestamp="1517369035212">
-        <mark key="'" line="311" column="26" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" timestamp="1517473728549">
+        <mark key="'" line="314" column="26" />
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/references/CloseableReference.java" timestamp="1516952892839">
         <mark key="'" line="124" column="30" />
@@ -360,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="446" column="29" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="345" column="21" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
       <jump line="45" column="16" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
@@ -460,6 +459,7 @@
       <jump line="31" column="51" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
       <jump line="199" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
       <jump line="47" column="7" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+      <jump line="314" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
