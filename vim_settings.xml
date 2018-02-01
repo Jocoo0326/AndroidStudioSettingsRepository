@@ -15,8 +15,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/GenericDraweeView.java" timestamp="1516863607261">
         <mark key="'" line="26" column="47" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1517487833163">
-        <mark key="'" line="312" column="30" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1517505076220">
+        <mark key="'" line="311" column="30" />
       </file>
       <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/ColorDrawable.java" timestamp="1516774331753">
         <mark key="'" line="376" column="0" />
@@ -96,8 +96,8 @@
       <file name="D:/Android/sdk/sources/android-26/android/os/StrictMode.java" timestamp="1517198000677">
         <mark key="'" line="375" column="30" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517291872124">
-        <mark key="'" line="144" column="4" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517504247089">
+        <mark key="'" line="143" column="13" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" timestamp="1517474196631">
         <mark key="'" line="317" column="0" />
@@ -108,8 +108,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/NewsArticlesResponse.java" timestamp="1517210790641">
         <mark key="'" line="7" column="13" />
       </file>
-      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" timestamp="1517295661682">
-        <mark key="'" line="108" column="19" />
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" timestamp="1517504642603">
+        <mark key="'" line="140" column="35" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableBitmap.java" timestamp="1516937097679">
         <mark key="'" line="15" column="53" />
@@ -178,6 +178,13 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java" timestamp="1517489351908">
         <mark key="'" line="34" column="65" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/util/Constants.java" timestamp="1517506465707">
+        <mark key="'" line="15" column="62" />
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/BaseControllerListener.java" timestamp="1517293361876">
         <mark key="'" line="17" column="62" />
       </file>
@@ -244,8 +251,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" timestamp="1517280767643">
         <mark key="'" line="70" column="21" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" timestamp="1517295629008">
-        <mark key="'" line="385" column="26" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" timestamp="1517504353500">
+        <mark key="'" line="385" column="15" />
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/LoggingDelegate.java" timestamp="1517191710828">
         <mark key="'" line="136" column="59" />
@@ -326,12 +333,12 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/upgrade/UpgradeInfo.java" timestamp="1515551455431">
         <mark key="'" line="138" column="0" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517370736231">
-        <mark key="'" line="327" column="31" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517505524797">
+        <mark key="'" line="578" column="46" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imageutils/JfifUtil.java" timestamp="1517498560403" />
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517496517969">
-        <mark key="'" line="93" column="48" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517505985743">
+        <mark key="'" line="65" column="25" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ResizeAndRotateProducer.java" timestamp="1517497201855" />
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1517502448007">
@@ -370,6 +377,9 @@
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/QualityInfo.java" timestamp="1514451124310">
         <mark key="'" line="35" column="17" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/build.gradle" timestamp="1517506610256">
+        <mark key="'" line="235" column="0" />
+      </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" timestamp="1517474223226">
         <mark key="'" line="27" column="69" />
       </file>
@@ -382,8 +392,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ArrayDrawable.java" timestamp="1516851916446">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517488680608">
-        <mark key="'" line="47" column="7" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517504665021">
+        <mark key="'" line="199" column="35" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/AndroidManifest.xml" timestamp="1517219041165">
         <mark key="'" line="0" column="0" />
@@ -420,37 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="31" column="47" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/media/MediaUtils.java" />
-      <jump line="303" column="24" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="113" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
-      <jump line="305" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="148" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
-      <jump line="307" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="159" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
-      <jump line="309" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="177" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
-      <jump line="311" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="170" column="11" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/util/UriUtil.java" />
-      <jump line="255" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="287" column="67" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="331" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="333" column="14" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="328" column="6" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="327" column="31" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="312" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
-      <jump line="29" column="9" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
-      <jump line="31" column="51" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
-      <jump line="199" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="47" column="7" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="314" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="49" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="317" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" />
-      <jump line="27" column="69" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" />
-      <jump line="28" column="57" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
-      <jump line="298" column="0" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
-      <jump line="45" column="23" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/SimpleDataSource.java" />
-      <jump line="209" column="32" filename="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/AbstractDataSource.java" />
       <jump line="41" column="52" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" />
       <jump line="30" column="13" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueue.java" />
       <jump line="34" column="65" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java" />
@@ -520,6 +499,37 @@
       <jump line="441" column="49" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
       <jump line="218" column="24" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/OrderInfo.java" />
       <jump line="75" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/OrderInfo.java" />
+      <jump line="119" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="128" column="23" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="129" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="155" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="143" column="13" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="294" column="24" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="108" column="10" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="334" column="42" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="374" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="385" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="140" column="35" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="199" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+      <jump line="215" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="255" column="36" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="287" column="68" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="327" column="41" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="312" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="69" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="105" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="153" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="172" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="311" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="326" column="45" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="562" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="575" column="52" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="207" column="32" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="578" column="46" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
+      <jump line="222" column="24" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="65" column="25" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
+      <jump line="15" column="62" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/util/Constants.java" />
+      <jump line="235" column="0" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -548,7 +558,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>话费充值下单校验接口变更</text>
+        <text>false</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -636,10 +646,10 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>话费充值下单校验接口变更</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</text>
+        <text encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1055,9 +1065,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1065,8 +1075,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRDb250cm9sbGVyXD4=</entry>
-        <entry encoding="base64">XDxhdHRhY2hDb250cm9sbGVyXD4=</entry>
         <entry>onAttach</entry>
         <entry encoding="base64">XDxtQ29udHJvbGxlckxpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
@@ -1085,6 +1093,8 @@
         <entry encoding="base64">XDxtRG9Kb2JSdW5uYWJsZVw+</entry>
         <entry encoding="base64">XDxtU2FtcGxlU2l6ZVw+</entry>
         <entry encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</entry>
+        <entry>setImageUri</entry>
+        <entry encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
