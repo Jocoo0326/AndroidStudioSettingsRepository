@@ -142,7 +142,6 @@
       <file name="D:/Freedom/fresco/samples/zoomableapp/build.gradle" timestamp="1516865290073">
         <mark key="'" line="19" column="15" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/MediaVariationsFallbackProducer.java" timestamp="1517491019972" />
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/adapter/CartAdapter.java" timestamp="1515999062905">
         <mark key="'" line="776" column="46" />
       </file>
@@ -161,7 +160,6 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ScaleTypeDrawable.java" timestamp="1516783741139">
         <mark key="'" line="98" column="48" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/BaseConsumer.java" timestamp="1517497338590" />
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/PullToRefreshSwipeLayoutInRecyclerView.java" timestamp="1515984965356">
         <mark key="'" line="19" column="86" />
       </file>
@@ -194,10 +192,10 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/decoder/DefaultImageDecoder.java" timestamp="1517498367062">
         <mark key="'" line="86" column="4" />
       </file>
+      <file name="D:/AndroidStudioProjects/hlixin_android/好利信/src/com/haolixin/activity/ShowPhotoActivity.java" timestamp="1517558782273" />
       <file name="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/build.gradle" timestamp="1516951557438">
         <mark key="'" line="6" column="51" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/zhengzhou/java/com/gdmm/znj/util/Config.java" timestamp="1517513838654" />
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java" timestamp="1517489351908">
         <mark key="'" line="34" column="65" />
       </file>
@@ -216,6 +214,9 @@
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/BaseControllerListener.java" timestamp="1517293361876">
         <mark key="'" line="17" column="62" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/adapter/ForumHomeItemAdapter.java" timestamp="1517559525723">
+        <mark key="'" line="187" column="17" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/FrescoLoadUtil.java" timestamp="1514366779583">
         <mark key="'" line="136" column="15" />
@@ -335,7 +336,6 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" timestamp="1517220226794">
         <mark key="'" line="36" column="13" />
       </file>
-      <file name="D:/gradle/bin/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/a2926c057ca3b662b9db194c869bdbe7d3bb8aef/jsr305-3.0.1-sources.jar!/javax/annotation/concurrent/ThreadSafe.java" timestamp="1517473028160" />
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/StatefulProducerRunnable.java" timestamp="1517489366887">
         <mark key="'" line="21" column="22" />
       </file>
@@ -372,11 +372,9 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517505524797">
         <mark key="'" line="578" column="46" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imageutils/JfifUtil.java" timestamp="1517498560403" />
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517505985743">
         <mark key="'" line="65" column="25" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ResizeAndRotateProducer.java" timestamp="1517497201855" />
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1517502448007">
         <mark key="'" line="441" column="49" />
       </file>
@@ -411,6 +409,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" timestamp="1517502404686">
         <mark key="'" line="445" column="37" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/commment/adapter/CommentListAdapter.java" timestamp="1517558782273" />
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517365672932">
         <mark key="'" line="71" column="33" />
       </file>
@@ -483,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
       <jump line="413" column="63" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
       <jump line="39" column="38" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/UserOrderListFragment.java" />
       <jump line="45" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/OrderListPresenter.java" />
@@ -583,6 +581,7 @@
       <jump line="244" column="42" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
       <jump line="492" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
       <jump line="204" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
+      <jump line="187" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/adapter/ForumHomeItemAdapter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -702,7 +701,7 @@
         <text>wx2aa3fe2aa71069bb</text>
       </register>
       <register name="/" type="4">
-        <text>APP_SCHEME</text>
+        <text encoding="base64">XDxtVXBkYXRlVGltZVw+</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1118,9 +1117,9 @@
       </register>
     </registers>
     <search>
-      <last-search>APP_SCHEME</last-search>
+      <last-search encoding="base64">XDxtVXBkYXRlVGltZVw+</last-search>
       <last-offset />
-      <last-pattern>APP_SCHEME</last-pattern>
+      <last-pattern encoding="base64">XDxtVXBkYXRlVGltZVw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1139,7 +1138,6 @@
         <entry>setImageUri</entry>
         <entry encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</entry>
         <entry>forum_home_item_date</entry>
-        <entry encoding="base64">XDxtVXBkYXRlVGltZVw+</entry>
         <entry>R.layout</entry>
         <entry>fm_pull_recycler_view</entry>
         <entry encoding="base64">XDxtUHVsbFJlY3ljbGVyVmlld1w+</entry>
@@ -1148,6 +1146,7 @@
         <entry>share</entry>
         <entry>APP_</entry>
         <entry>APP_SCHEME</entry>
+        <entry encoding="base64">XDxtVXBkYXRlVGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
