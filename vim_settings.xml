@@ -212,6 +212,9 @@
         <mark key="." line="42" column="45" />
         <mark key="^" line="42" column="45" />
       </file>
+      <file name="D:/Android/sdk/sources/android-26/java/util/HashMap.java" timestamp="1517801898263">
+        <mark key="'" line="137" column="15" />
+      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/BaseControllerListener.java" timestamp="1517293361876">
         <mark key="'" line="17" column="62" />
       </file>
@@ -482,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="63" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
       <jump line="39" column="38" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/UserOrderListFragment.java" />
       <jump line="45" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/OrderListPresenter.java" />
       <jump line="445" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" />
@@ -582,6 +584,7 @@
       <jump line="492" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
       <jump line="204" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
       <jump line="187" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/adapter/ForumHomeItemAdapter.java" />
+      <jump line="137" column="15" filename="D:/Android/sdk/sources/android-26/java/util/HashMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
