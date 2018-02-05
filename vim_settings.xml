@@ -15,8 +15,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/GenericDraweeView.java" timestamp="1516863607261">
         <mark key="'" line="26" column="47" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1517505076220">
-        <mark key="'" line="311" column="30" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1517824567651">
+        <mark key="'" line="226" column="0" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" timestamp="1517512061566">
         <mark key="'" line="115" column="54" />
@@ -485,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="38" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/UserOrderListFragment.java" />
       <jump line="45" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/OrderListPresenter.java" />
       <jump line="445" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" />
       <jump line="441" column="49" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
@@ -585,6 +584,7 @@
       <jump line="204" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
       <jump line="187" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/adapter/ForumHomeItemAdapter.java" />
       <jump line="137" column="15" filename="D:/Android/sdk/sources/android-26/java/util/HashMap.java" />
+      <jump line="226" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
