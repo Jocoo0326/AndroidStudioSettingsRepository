@@ -79,8 +79,12 @@
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/widget/text/span/BetterImageSpan.java" timestamp="1517190580253">
         <mark key="'" line="150" column="13" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" timestamp="1517282692380">
-        <mark key="'" line="51" column="43" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" timestamp="1517885919882">
+        <mark key="'" line="53" column="23" />
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="57" column="28" />
+        <mark key="." line="57" column="28" />
+        <mark key="^" line="57" column="28" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/ImageInfo.java" timestamp="1516951189387">
         <mark key="'" line="29" column="12" />
@@ -318,8 +322,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/presenter/UserInfoPresenter.java" timestamp="1516784770489">
         <mark key="'" line="133" column="47" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" timestamp="1517282565916">
-        <mark key="'" line="166" column="37" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" timestamp="1517885533713">
+        <mark key="'" line="165" column="45" />
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/TransformAwareDrawable.java" timestamp="1516775522763">
         <mark key="'" line="21" column="37" />
@@ -354,8 +358,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517511587696">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517883430301">
-        <mark key="'" line="241" column="87" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517884845436">
+        <mark key="'" line="286" column="12" />
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="41" />
         <mark key="^" line="234" column="40" />
@@ -369,6 +373,13 @@
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/MainActivity.java" timestamp="1516155135291">
         <mark key="'" line="28" column="28" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/business/ui/BusinessActivity.java" timestamp="1517884948594">
+        <mark key="'" line="82" column="36" />
+        <mark key="[" line="63" column="28" />
+        <mark key="]" line="63" column="35" />
+        <mark key="^" line="63" column="35" />
+        <mark key="." line="63" column="35" />
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/FLog.java" timestamp="1517191207348">
         <mark key="'" line="443" column="45" />
@@ -489,12 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="23" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
-      <jump line="129" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
-      <jump line="155" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
-      <jump line="143" column="13" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
-      <jump line="294" column="24" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
-      <jump line="108" column="10" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
       <jump line="334" column="42" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="374" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="385" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
@@ -589,6 +594,12 @@
       <jump line="235" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
       <jump line="239" column="84" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
       <jump line="240" column="87" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="286" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="81" column="36" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/business/ui/BusinessActivity.java" />
+      <jump line="161" column="38" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
+      <jump line="165" column="45" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageActivity.java" />
+      <jump line="51" column="43" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
+      <jump line="53" column="23" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/adapter/MyPageTabPageAdapter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -616,8 +627,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZWFuID09IG51bGwpIHJldHVybjsK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -705,7 +716,7 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>wx2aa3fe2aa71069bb</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWFuXD4=</text>
@@ -1120,7 +1131,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>228</text>
+        <text>69</text>
       </register>
     </registers>
     <search>
@@ -1156,7 +1167,6 @@
         <entry encoding="base64">XDxiZWFuXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RpcHNWaWV3TnVtL251bVZpZXcvZw==</entry>
         <entry>%s/&quot;\(\d\+\)\(dp\|sp\|px\)&quot;/&quot;@dimen\/\2_\1&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL1woXGRcK1wpc3AvQGRpbWVuL2RwX1wxL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyhcZFwrc3ApL0BkaW1lblwvZHBfXDEvZw==</entry>
@@ -1176,6 +1186,7 @@
         <entry>86</entry>
         <entry>180</entry>
         <entry>228</entry>
+        <entry>69</entry>
       </history-cmd>
       <history-expr />
       <history-input />
