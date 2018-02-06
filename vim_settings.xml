@@ -133,8 +133,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517504247089">
         <mark key="'" line="143" column="13" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" timestamp="1517906449851">
-        <mark key="'" line="114" column="32" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" timestamp="1517907637746">
+        <mark key="'" line="103" column="0" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" timestamp="1517474196631">
         <mark key="'" line="317" column="0" />
@@ -572,8 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="17" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/radio/bcastlive/adapter/BroadCastLiveAdapter.java" />
-      <jump line="80" column="25" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="350" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="230" column="0" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="103" column="37" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
@@ -652,7 +650,6 @@
       <jump line="13" column="55" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
       <jump line="21" column="41" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
       <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="114" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="97" column="4" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/FmNavTopBar.java" />
       <jump line="8" column="42" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fm_navtop_layout.xml" />
       <jump line="25" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
@@ -672,6 +669,9 @@
       <jump line="57" column="31" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/adapter/NewsChildFragmentAdapter.java" />
       <jump line="126" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/toolbar_actionbar.xml" />
       <jump line="62" column="18" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fm_navtop_layout.xml" />
+      <jump line="114" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
+      <jump line="129" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
+      <jump line="103" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
