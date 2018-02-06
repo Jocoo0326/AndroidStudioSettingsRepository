@@ -354,8 +354,12 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517511587696">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517278224369">
-        <mark key="'" line="104" column="35" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517883430301">
+        <mark key="'" line="241" column="87" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="41" />
+        <mark key="^" line="234" column="40" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueue.java" timestamp="1517489282016">
         <mark key="'" line="30" column="13" />
@@ -485,12 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/OrderListPresenter.java" />
-      <jump line="445" column="37" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" />
-      <jump line="441" column="49" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
-      <jump line="218" column="24" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/OrderInfo.java" />
-      <jump line="75" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/OrderInfo.java" />
-      <jump line="119" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
       <jump line="128" column="23" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
       <jump line="129" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
       <jump line="155" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
@@ -585,6 +583,12 @@
       <jump line="187" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/adapter/ForumHomeItemAdapter.java" />
       <jump line="137" column="15" filename="D:/Android/sdk/sources/android-26/java/util/HashMap.java" />
       <jump line="226" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="293" column="36" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="299" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="234" column="31" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="235" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="239" column="84" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="240" column="87" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,8 +616,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>wx2aa3fe2aa71069bb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZWFuID09IG51bGwpIHJldHVybjsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -704,7 +708,7 @@
         <text>wx2aa3fe2aa71069bb</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtVXBkYXRlVGltZVw+</text>
+        <text encoding="base64">XDxiZWFuXD4=</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -713,8 +717,8 @@
                 app:placeholderImage=&quot;@drawable/default_pic&quot;
                 app:placeholderImageScaleType=&quot;centerInside&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>tv_more_hotinteract</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZWFuID09IG51bGwpIHJldHVybjsK</text>
       </register>
       <register name="p" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1116,13 +1120,13 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>180</text>
+        <text>228</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtVXBkYXRlVGltZVw+</last-search>
+      <last-search encoding="base64">XDxiZWFuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtVXBkYXRlVGltZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxiZWFuXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1130,7 +1134,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtQ29tbW9uTmV0d29ya0ZldGNoVG9FbmNvZGVkTWVtb3J5U2VxdWVuY2VcPg==</entry>
         <entry encoding="base64">XDxtSW5wdXRQcm9kdWNlclw+</entry>
         <entry encoding="base64">XDxkb3dubG9hZEZyb21cPg==</entry>
         <entry encoding="base64">XDxmZXRjaFw+</entry>
@@ -1150,9 +1153,9 @@
         <entry>APP_</entry>
         <entry>APP_SCHEME</entry>
         <entry encoding="base64">XDxtVXBkYXRlVGltZVw+</entry>
+        <entry encoding="base64">XDxiZWFuXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL21zZ1RpcHMvdGlwc1ZpZXcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RpcHNWaWV3TnVtL251bVZpZXcvZw==</entry>
         <entry>%s/&quot;\(\d\+\)\(dp\|sp\|px\)&quot;/&quot;@dimen\/\2_\1&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL1woXGRcK1wpc3AvQGRpbWVuL2RwX1wxL2c=</entry>
@@ -1172,6 +1175,7 @@
         <entry>tabnext</entry>
         <entry>86</entry>
         <entry>180</entry>
+        <entry>228</entry>
       </history-cmd>
       <history-expr />
       <history-input />
