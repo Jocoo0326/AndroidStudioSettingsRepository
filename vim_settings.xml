@@ -240,6 +240,9 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/FrescoLoadUtil.java" timestamp="1514366779583">
         <mark key="'" line="136" column="15" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsFragment.java" timestamp="1517905943245">
+        <mark key="'" line="145" column="32" />
+      </file>
       <file name="D:/Freedom/fresco/samples/kotlin/src/main/kotlin/com/facebook/samples/kotlin/MediaStoreData.kt" timestamp="1516865507601">
         <mark key="'" line="29" column="15" />
       </file>
@@ -519,8 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="39" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
-      <jump line="105" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
       <jump line="153" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
       <jump line="172" column="8" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
       <jump line="311" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
@@ -619,6 +620,8 @@
       <jump line="178" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
       <jump line="34" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
       <jump line="104" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsFragment.java" />
+      <jump line="145" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -738,7 +741,7 @@
         <text>ull</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</text>
+        <text>R.layout</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1154,9 +1157,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</last-search>
+      <last-search>R.layout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</last-pattern>
+      <last-pattern>R.layout</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1172,7 +1175,6 @@
         <entry>setImageUri</entry>
         <entry encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</entry>
         <entry>forum_home_item_date</entry>
-        <entry>R.layout</entry>
         <entry>fm_pull_recycler_view</entry>
         <entry encoding="base64">XDxtUHVsbFJlY3ljbGVyVmlld1w+</entry>
         <entry>tv_more_hotinteract</entry>
@@ -1184,6 +1186,7 @@
         <entry encoding="base64">XDxiZWFuXD4=</entry>
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</entry>
+        <entry>R.layout</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
