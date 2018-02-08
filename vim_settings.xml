@@ -64,6 +64,13 @@
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/internal/Closeables.java" timestamp="1516937382119">
         <mark key="'" line="34" column="13" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" timestamp="1518116045490">
+        <mark key="'" line="72" column="27" />
+        <mark key="[" line="89" column="24" />
+        <mark key="]" line="89" column="41" />
+        <mark key="." line="89" column="41" />
+        <mark key="^" line="89" column="41" />
+      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/RootDrawable.java" timestamp="1516863492451">
         <mark key="'" line="37" column="67" />
       </file>
@@ -100,6 +107,11 @@
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/JobScheduler.java" timestamp="1517497764279">
         <mark key="'" line="46" column="25" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/formdetail/RadioFormDetailFragment.java" timestamp="1518115812392">
+        <mark key="'" line="284" column="12" />
+        <mark key="[" line="1194" column="57" />
+        <mark key="]" line="1194" column="74" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/ShoppingCartActivity.java" timestamp="1515984949914">
         <mark key="'" line="46" column="68" />
@@ -198,8 +210,10 @@
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/FLogDefaultLoggingDelegate.java" timestamp="1517197005151">
         <mark key="'" line="136" column="12" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ForumDetailFragment.java" timestamp="1518114604064">
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ForumDetailFragment.java" timestamp="1518115377155">
         <mark key="'" line="816" column="39" />
+        <mark key="[" line="839" column="53" />
+        <mark key="]" line="839" column="68" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/OrderListPresenter.java" timestamp="1517502377922">
         <mark key="'" line="45" column="39" />
@@ -417,6 +431,9 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/widget/CategoryPager.java" timestamp="1517220226794">
         <mark key="'" line="36" column="13" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/presenter/TopicPresenter.java" timestamp="1518115965370">
+        <mark key="'" line="61" column="65" />
+      </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/StatefulProducerRunnable.java" timestamp="1517489366887">
         <mark key="'" line="21" column="22" />
       </file>
@@ -439,10 +456,10 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517511587696">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1518115298670">
-        <mark key="'" line="104" column="29" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="125" column="10" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1518115873502">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="138" column="8" />
         <mark key="^" line="234" column="40" />
         <mark key="." line="246" column="0" />
       </file>
@@ -462,17 +479,24 @@
         <mark key="^" line="63" column="35" />
         <mark key="." line="63" column="35" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/formdetail/RadioFormDetailActivity.java" timestamp="1518115646419">
+        <mark key="'" line="18" column="32" />
+      </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/FLog.java" timestamp="1517191207348">
         <mark key="'" line="443" column="45" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/upgrade/UpgradeInfo.java" timestamp="1515551455431">
         <mark key="'" line="138" column="0" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/CommunityMyPostFragment.java" timestamp="1518115357992">
-        <mark key="'" line="97" column="12" />
-        <mark key="[" line="90" column="84" />
-        <mark key="]" line="90" column="84" />
-        <mark key="." line="90" column="84" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/CommunityMyPostFragment.java" timestamp="1518116017065">
+        <mark key="'" line="98" column="12" />
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="90" column="41" />
+        <mark key="." line="90" column="41" />
+        <mark key="^" line="90" column="41" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/adapter/FMMyTopicAdapter.java" timestamp="1518115637785">
+        <mark key="'" line="180" column="46" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517505524797">
         <mark key="'" line="578" column="46" />
@@ -487,8 +511,8 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1517505985743">
         <mark key="'" line="65" column="25" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1517502448007">
-        <mark key="'" line="441" column="49" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1518115641136">
+        <mark key="'" line="1617" column="31" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailFragment.java" timestamp="1515376707467">
         <mark key="'" line="95" column="87" />
@@ -606,19 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="30" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="176" column="34" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="77" column="19" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="75" column="58" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="13" column="0" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fm_hotinteract_view.xml" />
-      <jump line="81" column="58" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="78" column="0" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="130" column="46" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="59" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="241" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="200" column="25" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="46" column="33" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fm_head_view.xml" />
-      <jump line="201" column="24" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="119" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="186" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="126" column="30" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
@@ -706,6 +717,19 @@
       <jump line="219" column="78" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" />
       <jump line="816" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ForumDetailFragment.java" />
       <jump line="82" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/CommunityMyPostFragment.java" />
+      <jump line="39" column="24" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
+      <jump line="180" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/adapter/FMMyTopicAdapter.java" />
+      <jump line="1617" column="31" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" />
+      <jump line="18" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/formdetail/RadioFormDetailActivity.java" />
+      <jump line="305" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/formdetail/RadioFormDetailFragment.java" />
+      <jump line="409" column="13" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/formdetail/RadioFormDetailFragment.java" />
+      <jump line="284" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/formdetail/RadioFormDetailFragment.java" />
+      <jump line="116" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
+      <jump line="84" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
+      <jump line="48" column="23" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
+      <jump line="67" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
+      <jump line="72" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
+      <jump line="61" column="65" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/presenter/TopicPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -733,8 +757,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IGZsYWcuZXF1YWxzKENvbnN0YW50cy5JbnRlbnRLZXkuS0VZX1JFV0FSRF9TVUNDRVNTKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZXRjaERhdGEoKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -822,10 +846,10 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IGZsYWcuZXF1YWxzKENvbnN0YW50cy5JbnRlbnRLZXkuS0VZX1JFV0FSRF9TVUNDRVNTKQ==</text>
+        <text>KEY_FORUM_UPDATE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</text>
+        <text encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -834,8 +858,8 @@
                 app:placeholderImage=&quot;@drawable/default_pic&quot;
                 app:placeholderImageScaleType=&quot;centerInside&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>toast_delete_forum_success</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QcmVzZW50ZXIuZ2V0Rk1Qb3N0TGlzdCgxKTsK</text>
       </register>
       <register name="p" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -845,7 +869,7 @@
         fresco:placeholderImageScaleType=&quot;centerInside&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8xLsz719PNxrz2u/LV38m+s/0gMi608snNCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZXRjaERhdGEoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -858,7 +882,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZXRjaERhdGEoKTsK</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -912,10 +936,10 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRwX2hhbGYiIHR5cGU9ImRpbWVuIiBmb3JtYXQ9ImZsb2F0Ij4wLjVkcDwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUHJlc2VudGVyLmdldERhdGEoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8xLsz719PNxrz2u/LV38m+s/0gMi608snNCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -949,10 +973,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8xLsz719PNxrz2u/LV38m+s/0gMi608snNCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1157,7 +1181,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRwX2hhbGYiIHR5cGU9ImRpbWVuIiBmb3JtYXQ9ImZsb2F0Ij4wLjVkcDwvaXRlbT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1186,13 +1210,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249dHJ1ZQpvcmcuZ3JhZGxlLmp2bWFyZ3M9LVhteDE1MzZtCm9yZy5ncmFkbGUucGFyYWxsZWw9dHJ1ZQpvcmcuZ3JhZGxlLmNvbmZpZ3VyZW9uZGVtYW5kPXRydWUKYW5kcm9pZC5lbmFibGVCdWlsZENhY2hlID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1241,9 +1265,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1251,9 +1275,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtRG9Kb2JSdW5uYWJsZVw+</entry>
-        <entry encoding="base64">XDxtU2FtcGxlU2l6ZVw+</entry>
-        <entry encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</entry>
         <entry>setImageUri</entry>
         <entry encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</entry>
         <entry>forum_home_item_date</entry>
@@ -1271,6 +1292,9 @@
         <entry>R.layout</entry>
         <entry>删除评论成功</entry>
         <entry encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</entry>
+        <entry>Presenter</entry>
+        <entry encoding="base64">XDxtUnhCdXNEaXNwb3NhYmxlXD4=</entry>
+        <entry encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
