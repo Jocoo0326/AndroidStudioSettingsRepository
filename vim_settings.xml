@@ -557,10 +557,10 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/build.gradle" timestamp="1517506610256">
         <mark key="'" line="235" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518115238642">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1518116408408">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" timestamp="1517474223226">
         <mark key="'" line="27" column="69" />
@@ -757,8 +757,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZXRjaERhdGEoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>修改邀请达人详情文字描述</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -846,7 +846,7 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>KEY_FORUM_UPDATE</text>
+        <text>修改邀请达人详情文字描述</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</text>
