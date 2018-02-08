@@ -198,6 +198,9 @@
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/FLogDefaultLoggingDelegate.java" timestamp="1517197005151">
         <mark key="'" line="136" column="12" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ForumDetailFragment.java" timestamp="1518114604064">
+        <mark key="'" line="816" column="39" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/OrderListPresenter.java" timestamp="1517502377922">
         <mark key="'" line="45" column="39" />
       </file>
@@ -207,10 +210,10 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ScaleTypeDrawable.java" timestamp="1516783741139">
         <mark key="'" line="98" column="48" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" timestamp="1518113986427">
-        <mark key="'" line="163" column="86" />
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" timestamp="1518115341852">
+        <mark key="'" line="219" column="78" />
         <mark key="[" line="163" column="73" />
-        <mark key="]" line="163" column="99" />
+        <mark key="]" line="163" column="98" />
         <mark key="." line="163" column="73" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/PullToRefreshSwipeLayoutInRecyclerView.java" timestamp="1515984965356">
@@ -436,10 +439,10 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517511587696">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1517888502440">
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" timestamp="1518115298670">
         <mark key="'" line="104" column="29" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="41" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="125" column="10" />
         <mark key="^" line="234" column="40" />
         <mark key="." line="246" column="0" />
       </file>
@@ -464,6 +467,12 @@
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/upgrade/UpgradeInfo.java" timestamp="1515551455431">
         <mark key="'" line="138" column="0" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/CommunityMyPostFragment.java" timestamp="1518115357992">
+        <mark key="'" line="97" column="12" />
+        <mark key="[" line="90" column="84" />
+        <mark key="]" line="90" column="84" />
+        <mark key="." line="90" column="84" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1517505524797">
         <mark key="'" line="578" column="46" />
@@ -524,7 +533,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/build.gradle" timestamp="1517506610256">
         <mark key="'" line="235" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518109346230">
+      <file name="/Dummy.txt" timestamp="1518115238642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -597,9 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="43" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fragment_broadcast.xml" />
-      <jump line="299" column="4" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="173" column="47" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="63" column="30" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="176" column="34" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="77" column="19" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
@@ -697,6 +703,9 @@
       <jump line="1205" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/strings.xml" />
       <jump line="141" column="73" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" />
       <jump line="163" column="86" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" />
+      <jump line="219" column="78" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" />
+      <jump line="816" column="39" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ForumDetailFragment.java" />
+      <jump line="82" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/CommunityMyPostFragment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -725,7 +734,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>toast_delete_comment_success</text>
+        <text encoding="base64">IHx8IGZsYWcuZXF1YWxzKENvbnN0YW50cy5JbnRlbnRLZXkuS0VZX1JFV0FSRF9TVUNDRVNTKQ==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -813,7 +822,7 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>toast_delete_comment_success</text>
+        <text encoding="base64">IHx8IGZsYWcuZXF1YWxzKENvbnN0YW50cy5JbnRlbnRLZXkuS0VZX1JFV0FSRF9TVUNDRVNTKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</text>
@@ -836,7 +845,7 @@
         fresco:placeholderImageScaleType=&quot;centerInside&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8xLsz719PNxrz2u/LV38m+s/0gMi608snNCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -849,7 +858,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRwX2hhbGYiIHR5cGU9ImRpbWVuIiBmb3JtYXQ9ImZsb2F0Ij4wLjVkcDwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -903,7 +912,7 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRwX2hhbGYiIHR5cGU9ImRpbWVuIiBmb3JtYXQ9ImZsb2F0Ij4wLjVkcDwvaXRlbT4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
@@ -940,10 +949,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1177,13 +1186,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="2">
         <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249dHJ1ZQpvcmcuZ3JhZGxlLmp2bWFyZ3M9LVhteDE1MzZtCm9yZy5ncmFkbGUucGFyYWxsZWw9dHJ1ZQpvcmcuZ3JhZGxlLmNvbmZpZ3VyZW9uZGVtYW5kPXRydWUKYW5kcm9pZC5lbmFibGVCdWlsZENhY2hlID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
