@@ -388,6 +388,12 @@
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerFactory.java" timestamp="1517295075628">
         <mark key="'" line="100" column="63" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/gradle.properties" timestamp="1518096710268">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/res/values/attrs.xml" timestamp="1514537750809">
         <mark key="'" line="75" column="37" />
       </file>
@@ -704,7 +710,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>空指针优化</text>
+        <text>1536m</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -792,7 +798,7 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>空指针优化</text>
+        <text>1536m</text>
       </register>
       <register name="/" type="4">
         <text>R.layout</text>
