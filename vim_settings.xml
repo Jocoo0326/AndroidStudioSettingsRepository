@@ -136,6 +136,11 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" timestamp="1517907637746">
         <mark key="'" line="103" column="0" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/strings.xml" timestamp="1518113982643">
+        <mark key="'" line="1205" column="48" />
+        <mark key="[" line="1204" column="18" />
+        <mark key="]" line="1204" column="43" />
+      </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/request/ImageRequest.java" timestamp="1517474196631">
         <mark key="'" line="317" column="0" />
       </file>
@@ -201,6 +206,12 @@
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ScaleTypeDrawable.java" timestamp="1516783741139">
         <mark key="'" line="98" column="48" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" timestamp="1518113986427">
+        <mark key="'" line="163" column="86" />
+        <mark key="[" line="163" column="73" />
+        <mark key="]" line="163" column="99" />
+        <mark key="." line="163" column="73" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/PullToRefreshSwipeLayoutInRecyclerView.java" timestamp="1515984965356">
         <mark key="'" line="19" column="86" />
@@ -586,10 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="230" column="0" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="103" column="37" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="303" column="32" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="14" column="43" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/res/layout/fragment_broadcast.xml" />
       <jump line="299" column="4" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="173" column="47" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
@@ -686,6 +693,10 @@
       <jump line="114" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="129" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="103" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
+      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/strings.xml" />
+      <jump line="1205" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/strings.xml" />
+      <jump line="141" column="73" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" />
+      <jump line="163" column="86" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,7 +725,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>toast_delete_comment_success</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -802,10 +813,10 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>toast_delete_comment_success</text>
       </register>
       <register name="/" type="4">
-        <text>R.layout</text>
+        <text encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -814,8 +825,8 @@
                 app:placeholderImage=&quot;@drawable/default_pic&quot;
                 app:placeholderImageScaleType=&quot;centerInside&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJweF80Ij40cHg8L2RpbWVuPgo=</text>
+      <register name="0" type="4">
+        <text>toast_delete_forum_success</text>
       </register>
       <register name="p" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1221,9 +1232,9 @@
       </register>
     </registers>
     <search>
-      <last-search>R.layout</last-search>
+      <last-search encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern>R.layout</last-pattern>
+      <last-pattern encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,8 +1242,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZXRjaFw+</entry>
-        <entry>fetch</entry>
         <entry encoding="base64">XDxtRG9Kb2JSdW5uYWJsZVw+</entry>
         <entry encoding="base64">XDxtU2FtcGxlU2l6ZVw+</entry>
         <entry encoding="base64">XDxtUGxhdGZvcm1EZWNvZGVyXD4=</entry>
@@ -1251,6 +1260,8 @@
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</entry>
         <entry>R.layout</entry>
+        <entry>删除评论成功</entry>
+        <entry encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
