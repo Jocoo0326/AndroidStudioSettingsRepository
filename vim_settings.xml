@@ -226,6 +226,9 @@
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" timestamp="1517366705830">
         <mark key="'" line="25" column="26" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" timestamp="1518330822760">
+        <mark key="'" line="91" column="21" />
+      </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableStaticBitmap.java" timestamp="1516950667861">
         <mark key="'" line="35" column="20" />
       </file>
@@ -330,6 +333,9 @@
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517906645654">
         <mark key="'" line="11" column="32" />
+      </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1518330137205">
+        <mark key="'" line="188" column="5" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/Constants.java" timestamp="1517193128585">
         <mark key="'" line="22" column="7" />
@@ -586,10 +592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/ui/MedalGotFragment.java" />
-      <jump line="33" column="36" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/ui/MedalGotFragment.java" />
-      <jump line="63" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/ui/MedalGotFragment.java" />
-      <jump line="40" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/ui/MyMedalActivity.java" />
       <jump line="52" column="23" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/adapter/MyMedalAdapter.java" />
       <jump line="109" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumPresenter.java" />
       <jump line="178" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
@@ -686,6 +688,10 @@
       <jump line="32" column="38" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" />
       <jump line="40" column="5" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" />
       <jump line="43" column="38" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" />
+      <jump line="43" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
+      <jump line="188" column="5" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
+      <jump line="46" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
+      <jump line="91" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -805,7 +811,7 @@
         <text>修改邀请达人详情文字描述</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</text>
+        <text encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1221,9 +1227,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</last-search>
+      <last-search encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,7 +1237,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</entry>
         <entry>forum_home_item_date</entry>
         <entry>fm_pull_recycler_view</entry>
         <entry encoding="base64">XDxtUHVsbFJlY3ljbGVyVmlld1w+</entry>
@@ -1251,6 +1256,7 @@
         <entry encoding="base64">XDxtUnhCdXNEaXNwb3NhYmxlXD4=</entry>
         <entry encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</entry>
         <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
+        <entry encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
