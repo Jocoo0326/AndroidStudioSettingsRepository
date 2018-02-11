@@ -21,8 +21,8 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/GenericDraweeView.java" timestamp="1516863607261">
         <mark key="'" line="26" column="47" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1517824567651">
-        <mark key="'" line="226" column="0" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" timestamp="1518311291315">
+        <mark key="'" line="209" column="22" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" timestamp="1517514174197">
         <mark key="'" line="483" column="48" />
@@ -630,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="186" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="126" column="30" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="116" column="54" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
@@ -730,6 +729,7 @@
       <jump line="67" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
       <jump line="72" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
       <jump line="61" column="65" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/presenter/TopicPresenter.java" />
+      <jump line="209" column="22" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
