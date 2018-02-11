@@ -12,12 +12,6 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/RxUtil.java" timestamp="1514260697273">
         <mark key="'" line="167" column="49" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/model/MedalType.java" timestamp="1518108954449">
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="33" />
-      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/GenericDraweeView.java" timestamp="1516863607261">
         <mark key="'" line="26" column="47" />
       </file>
@@ -74,14 +68,14 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/RootDrawable.java" timestamp="1516863492451">
         <mark key="'" line="37" column="67" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" timestamp="1517292814519">
-        <mark key="'" line="179" column="21" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" timestamp="1518320249000">
+        <mark key="'" line="121" column="21" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/presenter/ShoppingCartPresenter.java" timestamp="1515638127283">
         <mark key="'" line="94" column="73" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" timestamp="1517292824673">
-        <mark key="'" line="280" column="17" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" timestamp="1518320271669">
+        <mark key="'" line="263" column="22" />
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/widget/text/span/BetterImageSpan.java" timestamp="1517190580253">
         <mark key="'" line="150" column="13" />
@@ -142,8 +136,8 @@
       <file name="D:/Android/sdk/sources/android-26/android/os/StrictMode.java" timestamp="1517198000677">
         <mark key="'" line="375" column="30" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1517504247089">
-        <mark key="'" line="143" column="13" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" timestamp="1518320227555">
+        <mark key="'" line="144" column="13" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" timestamp="1517907637746">
         <mark key="'" line="103" column="0" />
@@ -165,8 +159,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" timestamp="1517511658686">
         <mark key="'" line="77" column="19" />
       </file>
-      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" timestamp="1517504642603">
-        <mark key="'" line="140" column="35" />
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" timestamp="1518320427311">
+        <mark key="'" line="101" column="26" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/dimens.xml" timestamp="1517906626688">
         <mark key="'" line="55" column="35" />
@@ -224,12 +218,6 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ScaleTypeDrawable.java" timestamp="1516783741139">
         <mark key="'" line="98" column="48" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumDetailPresenter.java" timestamp="1518115341852">
-        <mark key="'" line="219" column="78" />
-        <mark key="[" line="163" column="73" />
-        <mark key="]" line="163" column="98" />
-        <mark key="." line="163" column="73" />
-      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/PullToRefreshSwipeLayoutInRecyclerView.java" timestamp="1515984965356">
         <mark key="'" line="19" column="86" />
       </file>
@@ -272,7 +260,6 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/FmNavTopBar.java" timestamp="1517906651430">
         <mark key="'" line="84" column="80" />
       </file>
-      <file name="D:/AndroidStudioProjects/hlixin_android/好利信/src/com/haolixin/activity/ShowPhotoActivity.java" timestamp="1517910595590" />
       <file name="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/build.gradle" timestamp="1516951557438">
         <mark key="'" line="6" column="51" />
       </file>
@@ -285,12 +272,6 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
-      </file>
-      <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/zhengzhou/java/com/gdmm/znj/util/Config.java" timestamp="1517514788216">
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="42" column="45" />
-        <mark key="^" line="42" column="45" />
       </file>
       <file name="D:/Android/sdk/sources/android-26/java/util/HashMap.java" timestamp="1517801898263">
         <mark key="'" line="137" column="15" />
@@ -374,8 +355,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/mainpage/ui/MyPageCommunityFragment.java" timestamp="1517280767643">
         <mark key="'" line="70" column="21" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" timestamp="1517504353500">
-        <mark key="'" line="385" column="15" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" timestamp="1518320458565">
+        <mark key="'" line="63" column="48" />
       </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/logging/LoggingDelegate.java" timestamp="1517191710828">
         <mark key="'" line="136" column="59" />
@@ -383,11 +364,11 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DecodeProducer.java" timestamp="1517498028773">
         <mark key="'" line="225" column="66" />
       </file>
-      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" timestamp="1517294826202">
+      <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" timestamp="1518320386748">
         <mark key="'" line="64" column="67" />
       </file>
-      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" timestamp="1517362785423">
-        <mark key="'" line="359" column="15" />
+      <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" timestamp="1518320358466">
+        <mark key="'" line="479" column="11" />
       </file>
       <file name="D:/Android/sdk/sources/android-26/android/view/View.java" timestamp="1515480474907">
         <mark key="'" line="22137" column="15" />
@@ -415,12 +396,6 @@
       </file>
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerFactory.java" timestamp="1517295075628">
         <mark key="'" line="100" column="63" />
-      </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/gradle.properties" timestamp="1518097331472">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/res/values/attrs.xml" timestamp="1514537750809">
         <mark key="'" line="75" column="37" />
@@ -544,7 +519,6 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" timestamp="1517502404686">
         <mark key="'" line="445" column="37" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/commment/adapter/CommentListAdapter.java" timestamp="1517910595590" />
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517365672932">
         <mark key="'" line="71" column="33" />
       </file>
@@ -574,7 +548,7 @@
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/drawable/ArrayDrawable.java" timestamp="1516851916446">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1517504665021">
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1518320096930">
         <mark key="'" line="199" column="35" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/radio/bcastlive/BroadCastLiveFragment.java" timestamp="1517510130556">
@@ -613,12 +587,6 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" timestamp="1518312173364">
         <mark key="'" line="65" column="35" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/layout_news_child_fragment_header_item.xml" timestamp="1517906821438">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/hefei/java/com/gdmm/znj/util/Config.java" timestamp="1516068345688">
         <mark key="'" line="6" column="17" />
       </file>
@@ -630,24 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="30" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="116" column="54" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="197" column="46" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
-      <jump line="85" column="33" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
-      <jump line="249" column="28" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
-      <jump line="39" column="28" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="224" column="17" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="250" column="18" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="249" column="50" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="36" column="113" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="62" column="38" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="31" column="19" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="121" column="14" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="483" column="48" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
-      <jump line="188" column="16" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
-      <jump line="483" column="43" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
-      <jump line="188" column="16" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
       <jump line="244" column="42" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
       <jump line="492" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/UserInfoFragment.java" />
       <jump line="204" column="15" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" />
@@ -730,6 +680,24 @@
       <jump line="61" column="65" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/presenter/TopicPresenter.java" />
       <jump line="209" column="22" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
       <jump line="65" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" />
+      <jump line="199" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
+      <jump line="144" column="13" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/SimpleDraweeView.java" />
+      <jump line="121" column="21" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeView.java" />
+      <jump line="201" column="20" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="263" column="22" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/view/DraweeHolder.java" />
+      <jump line="359" column="17" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="427" column="36" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="658" column="14" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="479" column="11" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeController.java" />
+      <jump line="209" column="22" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" />
+      <jump line="64" column="67" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeController.java" />
+      <jump line="101" column="26" filename="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilder.java" />
+      <jump line="197" column="11" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="303" column="9" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="326" column="8" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="327" column="13" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="185" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
+      <jump line="63" column="48" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -849,7 +817,7 @@
         <text>修改邀请达人详情文字描述</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</text>
+        <text encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1265,9 +1233,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1275,7 +1243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setImageUri</entry>
         <entry encoding="base64">XDxuZXdOZXR3b3JrRmV0Y2hQcm9kdWNlclw+</entry>
         <entry>forum_home_item_date</entry>
         <entry>fm_pull_recycler_view</entry>
@@ -1295,6 +1262,7 @@
         <entry>Presenter</entry>
         <entry encoding="base64">XDxtUnhCdXNEaXNwb3NhYmxlXD4=</entry>
         <entry encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</entry>
+        <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
