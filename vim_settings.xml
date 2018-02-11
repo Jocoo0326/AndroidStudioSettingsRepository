@@ -610,8 +610,8 @@
       <file name="D:/Android/sdk/sources/android-26/java/util/logging/Logger.java" timestamp="1516938221225">
         <mark key="'" line="112" column="45" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" timestamp="1517495825238">
-        <mark key="'" line="31" column="50" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" timestamp="1518312173364">
+        <mark key="'" line="65" column="35" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/layout_news_child_fragment_header_item.xml" timestamp="1517906821438">
         <mark key="[" line="11" column="28" />
@@ -630,7 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="38" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="126" column="30" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="116" column="54" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
       <jump line="197" column="46" filename="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/src/main/java/com/gdmm/znj/main/ui/adapter/FMAdapter.java" />
@@ -730,6 +729,7 @@
       <jump line="72" column="27" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
       <jump line="61" column="65" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/presenter/TopicPresenter.java" />
       <jump line="209" column="22" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
+      <jump line="65" column="35" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
