@@ -443,7 +443,6 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" timestamp="1517502404686">
         <mark key="'" line="445" column="37" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/commment/adapter/CommentListAdapter.java" timestamp="1518399145655" />
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517365672932">
         <mark key="'" line="71" column="33" />
       </file>
@@ -470,6 +469,11 @@
         <mark key="'" line="45" column="25" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="1242" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519288659596">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" timestamp="1518328702233">
         <mark key="'" line="43" column="38" />
@@ -667,7 +671,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>postContent</text>
+        <text>1、修改“我的话题”中删除社区帖子时文字提示</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -755,7 +759,7 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>postContent</text>
+        <text>1、修改“我的话题”中删除社区帖子时文字提示</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb25maWdcPg==</text>
