@@ -48,6 +48,9 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/widget/NumberPickView.java" timestamp="1515638355320">
         <mark key="'" line="243" column="13" />
       </file>
+      <file name="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" timestamp="1518429537891">
+        <mark key="'" line="696" column="19" />
+      </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/internal/Closeables.java" timestamp="1516937382119">
         <mark key="'" line="34" column="13" />
       </file>
@@ -280,6 +283,9 @@
       <file name="D:/Android/sdk/sources/android-26/android/view/View.java" timestamp="1515480474907">
         <mark key="'" line="22137" column="15" />
       </file>
+      <file name="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" timestamp="1518428928428">
+        <mark key="'" line="1291" column="28" />
+      </file>
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/datasource/SimpleDataSource.java" timestamp="1517478950887">
         <mark key="'" line="45" column="23" />
       </file>
@@ -398,6 +404,9 @@
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/QualityInfo.java" timestamp="1514451124310">
         <mark key="'" line="35" column="17" />
       </file>
+      <file name="D:/Android/sdk/sources/android-21/android/widget/Scroller.java" timestamp="1518428409892">
+        <mark key="'" line="369" column="8" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" timestamp="1517514396695">
         <mark key="'" line="204" column="15" />
       </file>
@@ -458,6 +467,9 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/DiskCacheWriteProducer.java" timestamp="1518312173364">
         <mark key="'" line="65" column="35" />
       </file>
+      <file name="D:/Android/sdk/sources/android-21/android/view/View.java" timestamp="1518428962422">
+        <mark key="'" line="13262" column="13" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/hefei/java/com/gdmm/znj/util/Config.java" timestamp="1516068345688">
         <mark key="'" line="6" column="17" />
       </file>
@@ -469,38 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="33" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/presenter/ForumPresenter.java" />
-      <jump line="178" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="34" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="104" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailActivity.java" />
-      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsFragment.java" />
-      <jump line="145" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsFragment.java" />
-      <jump line="55" column="35" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/dimens.xml" />
-      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/CommunityFragment.java" />
-      <jump line="142" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/CommunityFragment.java" />
-      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/toolbar_actionbar.xml" />
-      <jump line="51" column="29" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/toolbar_actionbar.xml" />
-      <jump line="13" column="55" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
-      <jump line="21" column="41" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
-      <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
-      <jump line="97" column="4" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/FmNavTopBar.java" />
-      <jump line="8" column="42" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fm_navtop_layout.xml" />
-      <jump line="25" column="48" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
-      <jump line="14" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" />
-      <jump line="42" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" />
-      <jump line="11" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" />
-      <jump line="47" column="13" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/FmNavTopBar.java" />
-      <jump line="84" column="80" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/FmNavTopBar.java" />
-      <jump line="66" column="44" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fm_navtop_layout.xml" />
-      <jump line="10" column="43" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_community.xml" />
-      <jump line="14" column="17" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/toolbar_actionbar.xml" />
-      <jump line="56" column="45" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_news.xml" />
-      <jump line="45" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsChildFragment.java" />
-      <jump line="8" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/layout_news_child_fragment.xml" />
-      <jump line="105" column="30" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsChildFragment.java" />
-      <jump line="37" column="12" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/NewsChildFragment.java" />
-      <jump line="57" column="31" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/adapter/NewsChildFragmentAdapter.java" />
-      <jump line="126" column="46" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/toolbar_actionbar.xml" />
       <jump line="62" column="18" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fm_navtop_layout.xml" />
       <jump line="114" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="129" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
@@ -569,6 +549,38 @@
       <jump line="46" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
       <jump line="91" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
       <jump line="167" column="14" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
+      <jump line="152" column="16" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
+      <jump line="6973" column="14" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="6975" column="39" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="6976" column="17" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="6985" column="19" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="0" column="0" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="2462" column="34" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="2514" column="34" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1292" column="24" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1451" column="28" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1866" column="24" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1875" column="24" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1955" column="41" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="2400" column="15" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="2756" column="39" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="151" column="10" filename="D:/Android/sdk/sources/android-21/android/widget/Scroller.java" />
+      <jump line="160" column="10" filename="D:/Android/sdk/sources/android-21/android/widget/Scroller.java" />
+      <jump line="369" column="8" filename="D:/Android/sdk/sources/android-21/android/widget/Scroller.java" />
+      <jump line="1972" column="26" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1025" column="57" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="5781" column="57" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="5778" column="21" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1053" column="27" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="1310" column="32" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="8695" column="16" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="1291" column="28" filename="D:/Android/sdk/sources/android-21/android/view/ViewRootImpl.java" />
+      <jump line="12942" column="19" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="13262" column="13" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
+      <jump line="605" column="36" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
+      <jump line="770" column="15" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
+      <jump line="708" column="18" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
+      <jump line="696" column="19" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -688,7 +700,7 @@
         <text>修改邀请达人详情文字描述</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</text>
+        <text>dispatchDraw</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1100,13 +1112,13 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>102</text>
+        <text>1932</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</last-search>
+      <last-search>dispatchDraw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</last-pattern>
+      <last-pattern>dispatchDraw</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,15 +1126,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forum_home_item_date</entry>
-        <entry>fm_pull_recycler_view</entry>
-        <entry encoding="base64">XDxtUHVsbFJlY3ljbGVyVmlld1w+</entry>
-        <entry>tv_more_hotinteract</entry>
-        <entry encoding="base64">XDxtVHZNb3JlSG90aW50ZXJhY3RcPg==</entry>
-        <entry>share</entry>
-        <entry>APP_</entry>
-        <entry>APP_SCHEME</entry>
-        <entry encoding="base64">XDxtVXBkYXRlVGltZVw+</entry>
         <entry encoding="base64">XDxiZWFuXD4=</entry>
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</entry>
@@ -1134,9 +1137,17 @@
         <entry encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</entry>
         <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</entry>
+        <entry encoding="base64">XDxXSUxMX05PVF9EUkFXXD4=</entry>
+        <entry encoding="base64">XDx3aWxsTm90RHJhd1w+</entry>
+        <entry>willNotDraw</entry>
+        <entry>doTrav</entry>
+        <entry encoding="base64">XDxtVHJlZU9ic2VydmVyXD4=</entry>
+        <entry encoding="base64">XDxvbkF0dGFjaGVkVG9XaW5kb3dcPg==</entry>
+        <entry encoding="base64">XDxkcmF3TWFza2VkXD4=</entry>
+        <entry encoding="base64">XDxkaXNwYXRjaERyYXdVc2luZ0JpdG1hcFw+</entry>
+        <entry>dispatchDraw</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\(\d\+\)sp/@dimen\/dp_\1/g</entry>
         <entry>126</entry>
         <entry>425</entry>
         <entry>252</entry>
@@ -1156,6 +1167,7 @@
         <entry>94</entry>
         <entry>109</entry>
         <entry>102</entry>
+        <entry>1932</entry>
       </history-cmd>
       <history-expr />
       <history-input />
