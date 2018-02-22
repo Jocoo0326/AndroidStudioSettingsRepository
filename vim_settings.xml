@@ -54,6 +54,9 @@
       <file name="D:/Freedom/fresco/fbcore/src/main/java/com/facebook/common/internal/Closeables.java" timestamp="1516937382119">
         <mark key="'" line="34" column="13" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" timestamp="1519264060220">
+        <mark key="'" line="127" column="36" />
+      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/RootDrawable.java" timestamp="1516863492451">
         <mark key="'" line="37" column="67" />
       </file>
@@ -410,6 +413,13 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" timestamp="1517514396695">
         <mark key="'" line="204" column="15" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/build.gradle" timestamp="1519264307045">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="26" />
+        <mark key="^" line="132" column="31" />
+        <mark key="." line="131" column="26" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/build.gradle" timestamp="1517506610256">
         <mark key="'" line="235" column="0" />
       </file>
@@ -481,8 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="18" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fm_navtop_layout.xml" />
-      <jump line="114" column="21" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="129" column="32" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="103" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/BroadcastFragment.java" />
       <jump line="0" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/res/values/strings.xml" />
@@ -581,6 +589,8 @@
       <jump line="770" column="15" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
       <jump line="708" column="18" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
       <jump line="696" column="19" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
+      <jump line="127" column="36" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/topic/ui/FMMyTopicFragment.java" />
+      <jump line="24" column="8" filename="D:/WorkSpace/ZaiNanJing2/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -700,7 +710,7 @@
         <text>修改邀请达人详情文字描述</text>
       </register>
       <register name="/" type="4">
-        <text>dispatchDraw</text>
+        <text>nanping</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1116,9 +1126,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dispatchDraw</last-search>
+      <last-search>nanping</last-search>
       <last-offset />
-      <last-pattern>dispatchDraw</last-pattern>
+      <last-pattern>nanping</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1126,7 +1136,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZWFuXD4=</entry>
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry encoding="base64">XDxGb3J1bVByZXNlbnRlclw+</entry>
         <entry>R.layout</entry>
@@ -1146,6 +1155,7 @@
         <entry encoding="base64">XDxkcmF3TWFza2VkXD4=</entry>
         <entry encoding="base64">XDxkaXNwYXRjaERyYXdVc2luZ0JpdG1hcFw+</entry>
         <entry>dispatchDraw</entry>
+        <entry>nanping</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
