@@ -237,7 +237,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/UserOrderListFragment.java" timestamp="1517502361499">
         <mark key="'" line="39" column="38" />
       </file>
-      <file name="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" timestamp="1516866181379">
+      <file name="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" timestamp="1519350957441">
         <mark key="'" line="77" column="10" />
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/GenericDraweeHierarchyBuilder.java" timestamp="1516697942365">
@@ -548,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="43" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="374" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="385" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="448" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
@@ -648,6 +647,7 @@
       <jump line="118" column="18" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/model/ForumDetailPostItemBean.java" />
       <jump line="76" column="47" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
       <jump line="0" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/decoded_image.cpp" />
+      <jump line="77" column="10" filename="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
