@@ -90,8 +90,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/ShoppingCartActivity.java" timestamp="1515984949914">
         <mark key="'" line="46" column="68" />
       </file>
-      <file name="D:/Android/sdk/sources/android-26/java/lang/System.java" timestamp="1516933846905">
-        <mark key="'" line="893" column="35" />
+      <file name="D:/Android/sdk/sources/android-26/java/lang/System.java" timestamp="1519372078607">
+        <mark key="'" line="1656" column="20" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/adapter/HorizontalRecommendAdapter.java" timestamp="1515133551777">
         <mark key="'" line="77" column="26" />
@@ -141,9 +141,6 @@
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/CommunityFragment.java" timestamp="1517906182982">
         <mark key="'" line="142" column="32" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1519269780970">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/adapter/CartAdapter.java" timestamp="1515999062905">
         <mark key="'" line="776" column="46" />
@@ -231,8 +228,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/order/list/UserOrderListFragment.java" timestamp="1517502361499">
         <mark key="'" line="39" column="38" />
       </file>
-      <file name="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" timestamp="1519350957441">
-        <mark key="'" line="77" column="10" />
+      <file name="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" timestamp="1519372062037">
+        <mark key="'" line="78" column="27" />
       </file>
       <file name="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/generic/GenericDraweeHierarchyBuilder.java" timestamp="1516697942365">
         <mark key="'" line="662" column="23" />
@@ -399,6 +396,9 @@
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" timestamp="1518328392433">
         <mark key="'" line="153" column="14" />
       </file>
+      <file name="D:/Android/sdk/sources/android-26/java/util/concurrent/atomic/AtomicBoolean.java" timestamp="1519371849631">
+        <mark key="'" line="138" column="15" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/NavigationUtil.java" timestamp="1518115641136">
         <mark key="'" line="1617" column="31" />
       </file>
@@ -409,11 +409,8 @@
         <mark key="^" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/nanping/java/com/gdmm/znj/common/html5/Html5Activity.java" timestamp="1519269891109">
-        <mark key="'" line="1241" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="1241" column="1" />
-        <mark key="." line="74" column="0" />
+      <file name="D:/Android/sdk/sources/android-26/java/lang/Runtime.java" timestamp="1519372127937">
+        <mark key="'" line="1013" column="27" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/ui/MyMedalActivity.java" timestamp="1517888074815">
         <mark key="'" line="40" column="27" />
@@ -464,11 +461,6 @@
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2_HeFei_6.0.8/app/build.gradle" timestamp="1517506610256">
         <mark key="'" line="235" column="0" />
-      </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/src/zhengzhou/java/com/gdmm/znj/common/html5/Html5Activity.java" timestamp="1519269889013">
-        <mark key="'" line="45" column="25" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="1242" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1519288659596">
         <mark key="[" line="0" column="0" />
@@ -546,15 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="29" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
-      <jump line="104" column="16" filename="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/src/main/java/com/facebook/imagepipeline/backends/okhttp3/OkHttpNetworkFetcher.java" />
-      <jump line="69" column="47" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
-      <jump line="105" column="18" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
-      <jump line="153" column="14" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
-      <jump line="200" column="26" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="564" column="54" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="32" column="38" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" />
-      <jump line="40" column="5" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/CloseableProducerToDataSourceAdapter.java" />
       <jump line="43" column="38" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" />
       <jump line="43" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
       <jump line="188" column="5" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
@@ -646,6 +629,15 @@
       <jump line="180" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
       <jump line="43" column="28" filename="D:/Freedom/JuniorDemo/app/src/main/cpp/native-lib.cpp" />
       <jump line="171" column="16" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
+      <jump line="162" column="0" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/atomic/AtomicBoolean.java" />
+      <jump line="0" column="0" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/atomic/AtomicBoolean.java" />
+      <jump line="48" column="31" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/atomic/AtomicBoolean.java" />
+      <jump line="51" column="61" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/atomic/AtomicBoolean.java" />
+      <jump line="138" column="15" filename="D:/Android/sdk/sources/android-26/java/util/concurrent/atomic/AtomicBoolean.java" />
+      <jump line="78" column="27" filename="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" />
+      <jump line="1656" column="20" filename="D:/Android/sdk/sources/android-26/java/lang/System.java" />
+      <jump line="91" column="23" filename="D:/Android/sdk/sources/android-26/java/lang/Runtime.java" />
+      <jump line="1013" column="27" filename="D:/Android/sdk/sources/android-26/java/lang/Runtime.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
