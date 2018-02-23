@@ -142,12 +142,6 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/CommunityFragment.java" timestamp="1517906182982">
         <mark key="'" line="142" column="32" />
       </file>
-      <file name="D:/Freedom/shimmer-android-master/build.gradle" timestamp="1518426316671">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1519269780970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -273,8 +267,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517906645654">
         <mark key="'" line="11" column="32" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1519348882723">
-        <mark key="'" line="165" column="14" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1519352001250">
+        <mark key="'" line="180" column="12" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/Constants.java" timestamp="1519279380046">
         <mark key="'" line="189" column="60" />
@@ -344,12 +338,6 @@
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerFactory.java" timestamp="1517295075628">
         <mark key="'" line="100" column="63" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/gradle.properties" timestamp="1519265860973">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-      </file>
       <file name="D:/Freedom/fresco/drawee/src/main/res/values/attrs.xml" timestamp="1514537750809">
         <mark key="'" line="75" column="37" />
       </file>
@@ -364,6 +352,13 @@
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/StatefulProducerRunnable.java" timestamp="1517489366887">
         <mark key="'" line="21" column="22" />
+      </file>
+      <file name="D:/Freedom/JuniorDemo/app/src/main/cpp/native-lib.cpp" timestamp="1519352501185">
+        <mark key="'" line="45" column="28" />
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/BaseWithDialogActivity.java" timestamp="1517219422271">
         <mark key="'" line="59" column="33" />
@@ -519,6 +514,9 @@
       <file name="D:/Android/sdk/sources/android-26/android/graphics/drawable/BitmapDrawable.java" timestamp="1516782841919">
         <mark key="'" line="534" column="25" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/JpegTranscoder.cpp" timestamp="1519351794125">
+        <mark key="'" line="74" column="12" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/medal/presenter/MedalPresenter.java" timestamp="1516674343049">
         <mark key="'" line="51" column="38" />
       </file>
@@ -548,14 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
-      <jump line="385" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
-      <jump line="448" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
-      <jump line="114" column="24" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="199" column="38" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ImagePipeline.java" />
-      <jump line="215" column="28" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="255" column="25" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
-      <jump line="287" column="63" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="327" column="44" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="312" column="29" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
       <jump line="104" column="16" filename="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/src/main/java/com/facebook/imagepipeline/backends/okhttp3/OkHttpNetworkFetcher.java" />
@@ -648,6 +638,14 @@
       <jump line="76" column="47" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
       <jump line="0" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/decoded_image.cpp" />
       <jump line="77" column="10" filename="D:/Freedom/JuniorDemo/app/src/main/java/com/jocoo/juniordemo/MainActivity.kt" />
+      <jump line="6" column="14" filename="D:/Freedom/JuniorDemo/app/src/main/cpp/native-lib.cpp" />
+      <jump line="2" column="19" filename="D:/Freedom/JuniorDemo/app/src/main/cpp/native-lib.cpp" />
+      <jump line="71" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/JpegTranscoder.cpp" />
+      <jump line="31" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/JpegTranscoder.cpp" />
+      <jump line="74" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/JpegTranscoder.cpp" />
+      <jump line="174" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
+      <jump line="180" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
+      <jump line="43" column="28" filename="D:/Freedom/JuniorDemo/app/src/main/cpp/native-lib.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -676,7 +674,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1、修改“我的话题”中删除社区帖子时文字提示</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -764,10 +762,10 @@
         <text>jjjbbbllllllljjjjjjjjkj</text>
       </register>
       <register name="-" type="4">
-        <text>1、修改“我的话题”中删除社区帖子时文字提示</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25maWdcPg==</text>
+        <text encoding="base64">XDxCaXRtYXBzX2dldEJ5dGVCdWZmZXJcPg==</text>
       </register>
       <register name="o" type="4">
         <text>android:background=&quot;@color/color_eeeeee_white&quot;
@@ -1183,9 +1181,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxCaXRtYXBzX2dldEJ5dGVCdWZmZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCaXRtYXBzX2dldEJ5dGVCdWZmZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,10 +1191,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b2FzdF9kZWxldGVfY29tbWVudF9zdWNjZXNzXD4=</entry>
-        <entry>Presenter</entry>
-        <entry encoding="base64">XDxtUnhCdXNEaXNwb3NhYmxlXD4=</entry>
-        <entry encoding="base64">XDxnZXRGTVBvc3RMaXN0XD4=</entry>
         <entry encoding="base64">XDxtRGF0YVNvdXJjZVN1cHBsaWVyXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3RlckJpdG1hcHNNZXRob2RzXD4=</entry>
         <entry encoding="base64">XDxXSUxMX05PVF9EUkFXXD4=</entry>
@@ -1213,6 +1207,10 @@
         <entry encoding="base64">XDxXZWJTZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxDb25zdGFudHNcPg==</entry>
         <entry encoding="base64">XDxDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxKcGVnVHJhbnNjb2Rlcl90cmFuc2NvZGVKcGVnXD4=</entry>
+        <entry encoding="base64">XDxKcGVnVHJhbnNjb2Rlcl90cmFuc2NvZGVKcGVnV2l0aEV4aWZPcmllbnRhdGlvblw+</entry>
+        <entry encoding="base64">XDxCaXRtYXBzX3BpbkJpdG1hcFw+</entry>
+        <entry encoding="base64">XDxCaXRtYXBzX2dldEJ5dGVCdWZmZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>67</entry>
