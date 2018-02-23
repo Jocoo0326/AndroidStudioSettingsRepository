@@ -142,6 +142,9 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/ui/fragment/CommunityFragment.java" timestamp="1517906182982">
         <mark key="'" line="142" column="32" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/bianmin/recharge/ui/MobileRechargeActivity.java" timestamp="1519378444546">
+        <mark key="'" line="177" column="25" />
+      </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/shoppingcart/adapter/CartAdapter.java" timestamp="1515999062905">
         <mark key="'" line="776" column="46" />
       </file>
@@ -193,6 +196,9 @@
       </file>
       <file name="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java" timestamp="1517489351908">
         <mark key="'" line="34" column="65" />
+      </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/DialogUtil.java" timestamp="1519378616195">
+        <mark key="'" line="713" column="64" />
       </file>
       <file name="D:/Android/sdk/sources/android-26/java/util/HashMap.java" timestamp="1517801898263">
         <mark key="'" line="137" column="15" />
@@ -452,9 +458,9 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/ShareUtil.java" timestamp="1517514396695">
         <mark key="'" line="204" column="15" />
       </file>
-      <file name="D:/WorkSpace/ZaiNanJing2/app/build.gradle" timestamp="1519280584939">
+      <file name="D:/WorkSpace/ZaiNanJing2/app/build.gradle" timestamp="1519378241608">
         <mark key="'" line="144" column="49" />
-        <mark key="[" line="134" column="27" />
+        <mark key="[" line="134" column="29" />
         <mark key="]" line="134" column="31" />
         <mark key="^" line="134" column="31" />
         <mark key="." line="134" column="31" />
@@ -538,11 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="38" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" />
-      <jump line="43" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
-      <jump line="188" column="5" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
-      <jump line="46" column="30" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
-      <jump line="91" column="21" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
       <jump line="167" column="14" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
       <jump line="152" column="16" filename="D:/Freedom/shimmer-android-master/shimmer-android/src/main/java/com/facebook/shimmer/ShimmerFrameLayout.java" />
       <jump line="6973" column="14" filename="D:/Android/sdk/sources/android-21/android/view/View.java" />
@@ -638,6 +639,11 @@
       <jump line="1656" column="20" filename="D:/Android/sdk/sources/android-26/java/lang/System.java" />
       <jump line="91" column="23" filename="D:/Android/sdk/sources/android-26/java/lang/Runtime.java" />
       <jump line="1013" column="27" filename="D:/Android/sdk/sources/android-26/java/lang/Runtime.java" />
+      <jump line="42" column="0" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/bianmin/recharge/ui/MobileRechargeActivity.java" />
+      <jump line="213" column="25" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/bianmin/recharge/ui/MobileRechargeActivity.java" />
+      <jump line="127" column="25" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/bianmin/recharge/ui/MobileRechargeActivity.java" />
+      <jump line="177" column="25" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/locallife/bianmin/recharge/ui/MobileRechargeActivity.java" />
+      <jump line="713" column="64" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/DialogUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
