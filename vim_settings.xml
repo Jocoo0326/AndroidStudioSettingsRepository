@@ -267,8 +267,8 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517906645654">
         <mark key="'" line="11" column="32" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1519352001250">
-        <mark key="'" line="180" column="12" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1519364704621">
+        <mark key="'" line="171" column="16" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/Constants.java" timestamp="1519279380046">
         <mark key="'" line="189" column="60" />
@@ -546,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="44" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" />
       <jump line="312" column="29" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/core/ProducerFactory.java" />
       <jump line="104" column="16" filename="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/src/main/java/com/facebook/imagepipeline/backends/okhttp3/OkHttpNetworkFetcher.java" />
       <jump line="69" column="47" filename="D:/Freedom/fresco/imagepipeline/src/main/java/com/facebook/imagepipeline/producers/NetworkFetchProducer.java" />
@@ -646,6 +645,7 @@
       <jump line="174" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
       <jump line="180" column="12" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
       <jump line="43" column="28" filename="D:/Freedom/JuniorDemo/app/src/main/cpp/native-lib.cpp" />
+      <jump line="171" column="16" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" />
     </jumps>
     <registers>
       <register name="a" type="4">
