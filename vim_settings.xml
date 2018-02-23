@@ -175,11 +175,14 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/model/LocalLifeService.java" timestamp="1517217210317">
         <mark key="'" line="256" column="33" />
       </file>
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/decoded_image.cpp" timestamp="1519348771677">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/PipelineDraweeControllerBuilderSupplier.java" timestamp="1517366705830">
         <mark key="'" line="25" column="26" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" timestamp="1518330822760">
-        <mark key="'" line="89" column="21" />
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" timestamp="1519348763365">
+        <mark key="'" line="76" column="47" />
       </file>
       <file name="D:/Freedom/fresco/imagepipeline-base/src/main/java/com/facebook/imagepipeline/image/CloseableStaticBitmap.java" timestamp="1516950667861">
         <mark key="'" line="35" column="20" />
@@ -193,6 +196,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/radio/FmNavTopBar.java" timestamp="1517906651430">
         <mark key="'" line="84" column="80" />
       </file>
+      <file name="D:/AndroidStudioProjects/hlixin_android/好利信/src/com/haolixin/activity/ShowPhotoActivity.java" timestamp="1519348214242" />
       <file name="D:/Freedom/fresco/imagepipeline-backends/imagepipeline-okhttp3/build.gradle" timestamp="1516951557438">
         <mark key="'" line="6" column="51" />
       </file>
@@ -269,7 +273,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/res/layout/fragment_broadcast.xml" timestamp="1517906645654">
         <mark key="'" line="11" column="32" />
       </file>
-      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1518417734703">
+      <file name="D:/Freedom/fresco/imagepipeline/src/main/jni/bitmaps/Bitmaps.c" timestamp="1519348882723">
         <mark key="'" line="165" column="14" />
       </file>
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/util/Constants.java" timestamp="1519279380046">
@@ -443,6 +447,7 @@
       <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/main/userinfo/UserService.java" timestamp="1517502404686">
         <mark key="'" line="445" column="37" />
       </file>
+      <file name="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/mine/commment/adapter/CommentListAdapter.java" timestamp="1519348214242" />
       <file name="D:/Freedom/fresco/drawee-backends/drawee-pipeline/src/main/java/com/facebook/drawee/backends/pipeline/Fresco.java" timestamp="1517365672932">
         <mark key="'" line="71" column="33" />
       </file>
@@ -543,8 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="4" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
-      <jump line="63" column="48" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="334" column="43" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="374" column="39" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
       <jump line="385" column="15" filename="D:/Freedom/fresco/drawee/src/main/java/com/facebook/drawee/controller/AbstractDraweeControllerBuilder.java" />
@@ -643,6 +646,8 @@
       <jump line="95" column="85" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/ui/ForumModuleDetailFragment.java" />
       <jump line="289" column="47" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/adapter/ForumHomeItemAdapter.java" />
       <jump line="118" column="18" filename="D:/WorkSpace/ZaiNanJing2/app/src/main/java/com/gdmm/znj/community/forum/model/ForumDetailPostItemBean.java" />
+      <jump line="76" column="47" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/init.cpp" />
+      <jump line="0" column="0" filename="D:/Freedom/fresco/imagepipeline/src/main/jni/imagepipeline/decoded_image.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
